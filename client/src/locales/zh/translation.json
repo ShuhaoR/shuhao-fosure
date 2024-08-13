@@ -1,0 +1,22 @@
+{
+  "home": "首页",
+  "fund_list": "基金列表",
+  "create_fund": "创建基金",
+  "register_now": "立即注册",
+  "login": "登录",
+  "logout": "退出登录",
+  "welcome_message": "欢迎来到网站！",
+  "one_stop_solution": "您的一站式解决方案。",
+  "create_fund_button": "创建基金",
+  "view_funds": "查看基金",
+  "fund_name": "基金名称",
+  "net_value": "净值",
+  "cumulative_net_value": "累计净值",
+  "save_fund": "保存基金",
+  "update_fund": "更新基金",
+  "loading": "加载中...",
+  "registration_successful": "注册成功！",
+  "registration_failed": "注册失败。",
+  "login_successful": "登录成功！",
+  "error_saving_fund": "保存基金时出错。"
+}

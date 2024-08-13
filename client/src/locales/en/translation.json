@@ -1,0 +1,22 @@
+{
+  "home": "Home",
+  "fund_list": "Fund List",
+  "create_fund": "Create Fund",
+  "register_now": "Register Now",
+  "login": "Login",
+  "logout": "Logout",
+  "welcome_message": "Welcome to the site!",
+  "one_stop_solution": "Your one-stop solution.",
+  "create_fund_button": "Create Fund",
+  "view_funds": "View Funds",
+  "fund_name": "Fund Name",
+  "net_value": "Net Value",
+  "cumulative_net_value": "Cumulative Net Value",
+  "save_fund": "Save Fund",
+  "update_fund": "Update Fund",
+  "loading": "Loading...",
+  "registration_successful": "Registration successful!",
+  "registration_failed": "Registration failed.",
+  "login_successful": "Login successful!",
+  "error_saving_fund": "Error saving fund."
+}
