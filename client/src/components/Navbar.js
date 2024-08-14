@@ -61,7 +61,7 @@ const Navbar = ({ isLoggedIn, setIsLoggedIn }) => {
             defaultValue={i18n.language}
           >
             <option value="en">English</option>
-            <option value="zh">中文</option>
+            <option value="zh">Language:中文</option>
           </select>
         </li>
       </ul>

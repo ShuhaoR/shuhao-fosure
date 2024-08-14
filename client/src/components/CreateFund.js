@@ -17,7 +17,9 @@ const CreateFund = () => {
     if (id) {
       const fetchFund = async () => {
         try {
-          const response = await fetch(`http://localhost:5001/api/funds/${id}`);
+          const response = await fetch(
+            `https://shuhao-fosure.onrender.com/api/funds/${id}`
+          );
           const data = await response.json();
           setFund(data);
         } catch (error) {
@@ -34,8 +36,8 @@ const CreateFund = () => {
 
     const method = id ? "PUT" : "POST";
     const url = id
-      ? `http://localhost:5001/api/funds/${id}`
-      : "http://localhost:5001/api/funds";
+      ? `https://shuhao-fosure.onrender.com/api/funds/${id}`
+      : "https://shuhao-fosure.onrender.com/api/funds";
 
     try {
       const response = await fetch(url, {
