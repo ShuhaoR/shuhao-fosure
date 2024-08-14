@@ -1,38 +1,55 @@
 // src/components/FundList.js
-import React, { useEffect, useState } from "react";
-import { useTranslation } from "react-i18next";
+import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
+import * as XLSX from "xlsx";
 
 const FundList = () => {
-  const { t } = useTranslation();
   const [funds, setFunds] = useState([]);
+  const [searchTerm, setSearchTerm] = useState("");
 
   useEffect(() => {
-    const fetchFunds = async () => {
-      try {
-        const response = await fetch(
-          "https://shuhao-fosure.onrender.com/api/funds"
-        );
-        const data = await response.json();
+    fetch("/uniqueFunds.json")
+      .then((response) => response.json())
+      .then((data) => {
         setFunds(data);
-      } catch (error) {
+      })
+      .catch((error) => {
         console.error("Error fetching funds:", error);
-      }
-    };
-
-    fetchFunds();
+      });
   }, []);
 
+  const filteredFunds = funds.filter(
+    (fund) =>
+      fund.code.includes(searchTerm) || fund.fundname.includes(searchTerm)
+  );
+
   return (
-    <div>
-      <h1>{t("fund_list")}</h1>
-      <ul>
-        {funds.map((fund) => (
-          <li key={fund._id}>
-            <Link to={`/funds/${fund.fundId}`}>{fund.name}</Link>
-          </li>
-        ))}
-      </ul>
+    <div className="fund-list-container">
+      <h1>基金列表</h1>
+      <input
+        type="text"
+        placeholder="搜索基金"
+        value={searchTerm}
+        onChange={(e) => setSearchTerm(e.target.value)}
+      />
+      <table>
+        <thead>
+          <tr>
+            <th>基金代码</th>
+            <th>基金名称</th>
+          </tr>
+        </thead>
+        <tbody>
+          {filteredFunds.map((fund) => (
+            <tr key={fund.code}>
+              <td>{fund.code}</td>
+              <td>
+                <Link to={`/fund/${fund.fundname}`}>{fund.fundname}</Link>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   );
 };

@@ -1,0 +1,3338 @@
+[
+  {
+    "code": "298065",
+    "fundname": "泰信基金飞翔稳健1号12个月滚动持有期FOF集合资产管理计划"
+  },
+  {
+    "code": "298067",
+    "fundname": "泰信基金雨霖3号集合资产管理计划"
+  },
+  {
+    "code": "351251",
+    "fundname": "天治基金蚨鑫1号集合资产管理计划"
+  },
+  {
+    "code": "741246",
+    "fundname": "长安芳华1号集合资产管理计划"
+  },
+  {
+    "code": "741249",
+    "fundname": "长安基金城债瑞享1号FOF集合资产管理计划"
+  },
+  {
+    "code": "SA9247",
+    "fundname": "黑翼申选优享指增多策略1号私募证券投资基金"
+  },
+  {
+    "code": "21883B",
+    "fundname": "龙旗紫微量化对冲基金B"
+  },
+  {
+    "code": "S23373",
+    "fundname": "明汯稳健增长1期"
+  },
+  {
+    "code": "SA9208",
+    "fundname": "启林麒麟6期A"
+  },
+  {
+    "code": "S61614",
+    "fundname": "东方港湾马拉松二号私募投资基金"
+  },
+  {
+    "code": "S82267",
+    "fundname": "鼎实FOF母基金"
+  },
+  {
+    "code": "SE2881",
+    "fundname": "展弘稳进1号"
+  },
+  {
+    "code": "H4205B",
+    "fundname": "久期量和对冲1号私募证券投资基金(B类份额）"
+  },
+  {
+    "code": "J2767A",
+    "fundname": "名禹沐风1期A类"
+  },
+  {
+    "code": "SH1956",
+    "fundname": "量锐7号"
+  },
+  {
+    "code": "SJ6013",
+    "fundname": "天演赛能"
+  },
+  {
+    "code": "SJ5352",
+    "fundname": "正圆壹号"
+  },
+  {
+    "code": "SM1208",
+    "fundname": "少数派29号"
+  },
+  {
+    "code": "SR0279",
+    "fundname": "因诺天机18号私募基金"
+  },
+  {
+    "code": "SA0221",
+    "fundname": "致远中证500指数加强私募基金"
+  },
+  {
+    "code": "SR6089",
+    "fundname": "九章幻方中证500量化多策略1号"
+  },
+  {
+    "code": "SR3913",
+    "fundname": "星辰之泓湖宏观策略2号私募证券投资基金"
+  },
+  {
+    "code": "SS0221",
+    "fundname": "均成CTA1号"
+  },
+  {
+    "code": "SS8359",
+    "fundname": "因诺天丰1号私募基金"
+  },
+  {
+    "code": "ST1031",
+    "fundname": "双隆-隆富2号"
+  },
+  {
+    "code": "ST7144",
+    "fundname": "文多文睿"
+  },
+  {
+    "code": "ST9803",
+    "fundname": "九坤日享沪深300指数增强1号"
+  },
+  {
+    "code": "ST9804",
+    "fundname": "九坤日享中证500指数增强1号"
+  },
+  {
+    "code": "SW1216",
+    "fundname": "百创长牛分析全球一号"
+  },
+  {
+    "code": "SW6727",
+    "fundname": "复熙恒赢7号"
+  },
+  {
+    "code": "SW8015",
+    "fundname": "旭诺CTA一号"
+  },
+  {
+    "code": "SS5789",
+    "fundname": "明汯价值成长1期"
+  },
+  {
+    "code": "SS9022",
+    "fundname": "合晟同晖7号"
+  },
+  {
+    "code": "SW7194",
+    "fundname": "大墉滴水成海7号"
+  },
+  {
+    "code": "SX9850",
+    "fundname": "复熙恒赢11号"
+  },
+  {
+    "code": "SX2090",
+    "fundname": "鸣石春天十三号"
+  },
+  {
+    "code": "SY1764",
+    "fundname": "中金量化-金然稳健1号私募基金"
+  },
+  {
+    "code": "SY2594",
+    "fundname": "半夏宏观对冲"
+  },
+  {
+    "code": "--",
+    "fundname": "外贸信托-乐瑞强债尊享A期"
+  },
+  {
+    "code": "SY0607",
+    "fundname": "九章幻方沪深300量化多策略1号"
+  },
+  {
+    "code": "SY8885",
+    "fundname": "黑翼风行三号沪深300指数增强"
+  },
+  {
+    "code": "SX0534",
+    "fundname": "朋锦金石炽阳"
+  },
+  {
+    "code": "SY8480",
+    "fundname": "鸿道全球优选"
+  },
+  {
+    "code": "SCG570",
+    "fundname": "信安成长三号私募证券投资基金"
+  },
+  {
+    "code": "SCJ792",
+    "fundname": "敦和宏观对冲1号"
+  },
+  {
+    "code": "SCK972",
+    "fundname": "九鞅禾瑞八号"
+  },
+  {
+    "code": "SCN499",
+    "fundname": "锐天8号"
+  },
+  {
+    "code": "SCS411",
+    "fundname": "朴时CTA二号"
+  },
+  {
+    "code": "SCU762",
+    "fundname": "茂源资本-巴舍里耶量化对冲1期"
+  },
+  {
+    "code": "SCP381",
+    "fundname": "九坤日享中证1000指数增强1号"
+  },
+  {
+    "code": "SCV634",
+    "fundname": "聚宽一号"
+  },
+  {
+    "code": "SM4835",
+    "fundname": "东海龙王一号私募证券投资基金"
+  },
+  {
+    "code": "SEA491",
+    "fundname": "千象卓越2号中证500指数增强"
+  },
+  {
+    "code": "SEE038",
+    "fundname": "致远精选一号"
+  },
+  {
+    "code": "SCP765",
+    "fundname": "安值福慧量化1号"
+  },
+  {
+    "code": "SEC905",
+    "fundname": "会世元丰CTA1号"
+  },
+  {
+    "code": "SCZ227",
+    "fundname": "天演7号A"
+  },
+  {
+    "code": "SEE990",
+    "fundname": "申毅格物5号"
+  },
+  {
+    "code": "SEH218",
+    "fundname": "中量投CTA一号"
+  },
+  {
+    "code": "SEK993",
+    "fundname": "歆享海盈9号"
+  },
+  {
+    "code": "SEL385",
+    "fundname": "跃威稳进一号"
+  },
+  {
+    "code": "SEM323",
+    "fundname": "黑翼中证500指数增强1号"
+  },
+  {
+    "code": "SEP000",
+    "fundname": "九章幻方中证1000量化多策略1号"
+  },
+  {
+    "code": "SEH231",
+    "fundname": "灵均中证500指数增强2号"
+  },
+  {
+    "code": "SEQ023",
+    "fundname": "守朴尚德2号私募投资基金"
+  },
+  {
+    "code": "SEP463",
+    "fundname": "赫富500指数增强一号"
+  },
+  {
+    "code": "SEM863",
+    "fundname": "阳泽泽丰另类量化1号私募投资基金"
+  },
+  {
+    "code": "SET779",
+    "fundname": "黑翼中证500指数增强专享1号"
+  },
+  {
+    "code": "SEU010",
+    "fundname": "赫富对冲三号"
+  },
+  {
+    "code": "SEE388",
+    "fundname": "启林同盈2号"
+  },
+  {
+    "code": "SEW887",
+    "fundname": "白鹭桃花岛量化对冲一号"
+  },
+  {
+    "code": "SEZ246",
+    "fundname": "守朴价值1号"
+  },
+  {
+    "code": "SEQ456",
+    "fundname": "无忧共赢7号"
+  },
+  {
+    "code": "SEZ753",
+    "fundname": "赫富1000指数增强一号"
+  },
+  {
+    "code": "SEW532",
+    "fundname": "聚鸣匠传3号"
+  },
+  {
+    "code": "SGB086",
+    "fundname": "蒙玺纯达二期"
+  },
+  {
+    "code": "SEY507",
+    "fundname": "展弘稳进1号8期私募证券投资基金"
+  },
+  {
+    "code": "SES694",
+    "fundname": "汇融期权3号"
+  },
+  {
+    "code": "SGE763",
+    "fundname": "国恩回报3号私募证券投资基金"
+  },
+  {
+    "code": "SGC049",
+    "fundname": "蜂起管理期货一号"
+  },
+  {
+    "code": "SGG222",
+    "fundname": "鸣石锐驰七号私募证券投资基金"
+  },
+  {
+    "code": "SGC165",
+    "fundname": "靖奇略懂二号量化对冲证券私募基金"
+  },
+  {
+    "code": "SGG834",
+    "fundname": "启林正兴东绣1号"
+  },
+  {
+    "code": "SGA015",
+    "fundname": "卓识伟业"
+  },
+  {
+    "code": "SGJ083",
+    "fundname": "安值福慧量化5号"
+  },
+  {
+    "code": "SGD815",
+    "fundname": "锋滔重剑CTA一号"
+  },
+  {
+    "code": "SGK163",
+    "fundname": "宽投宽涌"
+  },
+  {
+    "code": "SGK119",
+    "fundname": "世纪前沿指数增强1号"
+  },
+  {
+    "code": "SGL267",
+    "fundname": "兆信飞翔5号私募证券投资基金"
+  },
+  {
+    "code": "SGP652",
+    "fundname": "泰舜昭阳掘金1号私募证券投资基金"
+  },
+  {
+    "code": "SGF150",
+    "fundname": "申毅格物10号"
+  },
+  {
+    "code": "SGN254",
+    "fundname": "朋锦永宁"
+  },
+  {
+    "code": "SGR393",
+    "fundname": "友山月月乐享"
+  },
+  {
+    "code": "SGK758",
+    "fundname": "明世伙伴胜杯6号2期私募基金"
+  },
+  {
+    "code": "SGP682",
+    "fundname": "世纪前沿指数增强2号"
+  },
+  {
+    "code": "SGP968",
+    "fundname": "先锋期货领航2号集合资产管理计划"
+  },
+  {
+    "code": "SGR991",
+    "fundname": "千朔指数增强二号"
+  },
+  {
+    "code": "SGR289",
+    "fundname": "平方和财赢鼎晟2号"
+  },
+  {
+    "code": "SGV364",
+    "fundname": "鲸睿聚能三号"
+  },
+  {
+    "code": "SGV805",
+    "fundname": "盛冠达CTA基本面量化8号私募证券投资基金"
+  },
+  {
+    "code": "GW985B",
+    "fundname": "合晟磐石专项2号私募证券投资基金B"
+  },
+  {
+    "code": "SGW076",
+    "fundname": "佑维CTA平衡一号"
+  },
+  {
+    "code": "SGX893",
+    "fundname": "合晟同晖12号私募证券投资基金"
+  },
+  {
+    "code": "SGW338",
+    "fundname": "量魁东海龙王二号"
+  },
+  {
+    "code": "SGX657",
+    "fundname": "禅龙扶摇9号私募证券投资基金"
+  },
+  {
+    "code": "SGY945",
+    "fundname": "会世元丰CTA2号"
+  },
+  {
+    "code": "SJA816",
+    "fundname": "量锐77号私募证券投资基金"
+  },
+  {
+    "code": "SGY044",
+    "fundname": "因诺中证1000指数增强1号"
+  },
+  {
+    "code": "SGZ555",
+    "fundname": "合晟彩云1号私募证券投资基金A"
+  },
+  {
+    "code": "SJC910",
+    "fundname": "群博多策略精选私募证券投资基金"
+  },
+  {
+    "code": "SJA569",
+    "fundname": "希格斯旅行者1号"
+  },
+  {
+    "code": "SJD518",
+    "fundname": "世纪前沿量化对冲9号"
+  },
+  {
+    "code": "SJC879",
+    "fundname": "仟富来可转债量化精选"
+  },
+  {
+    "code": "SJC133",
+    "fundname": "天算指数增强2号"
+  },
+  {
+    "code": "SJE457",
+    "fundname": "合晟同晖16号私募证券投资基金"
+  },
+  {
+    "code": "SJF555",
+    "fundname": "宽德金选中证500指数增强6号"
+  },
+  {
+    "code": "SJB143",
+    "fundname": "稳博中睿6号"
+  },
+  {
+    "code": "SJE919",
+    "fundname": "洪运瑞恒泰和FOF私募证券投资基金"
+  },
+  {
+    "code": "SJD972",
+    "fundname": "泽元通宝1号"
+  },
+  {
+    "code": "SJK508",
+    "fundname": "磐耀辜若飞私募证券投资基金"
+  },
+  {
+    "code": "SJH712",
+    "fundname": "宁水宏观多策略2号私募证券投资基金A"
+  },
+  {
+    "code": "SJM688",
+    "fundname": "衍复鲲鹏三号"
+  },
+  {
+    "code": "SJM897",
+    "fundname": "白鹭量化精选鲲鹏一号"
+  },
+  {
+    "code": "SJH866",
+    "fundname": "衍复指增三号"
+  },
+  {
+    "code": "SJH894",
+    "fundname": "衍复中性二号"
+  },
+  {
+    "code": "SJE233",
+    "fundname": "鼎泉资本金猪产业1号"
+  },
+  {
+    "code": "SJM619",
+    "fundname": "君信荣耀三号私募证券投资基金"
+  },
+  {
+    "code": "SGY654",
+    "fundname": "同犇11期子基金1号"
+  },
+  {
+    "code": "SJM016",
+    "fundname": "凡二英火5号"
+  },
+  {
+    "code": "SJP114",
+    "fundname": "图斯安心一号私募证券投资基金"
+  },
+  {
+    "code": "SJR645",
+    "fundname": "因诺聚配沪深300指数增强"
+  },
+  {
+    "code": "SJU836",
+    "fundname": "天演中证500指数增强3号"
+  },
+  {
+    "code": "SJT856",
+    "fundname": "大华月增利私募证券投资基金"
+  },
+  {
+    "code": "SJT364",
+    "fundname": "鸣石春天10号私募证券投资基金"
+  },
+  {
+    "code": "SJU280",
+    "fundname": "思勰投资-中证500指数增强1号"
+  },
+  {
+    "code": "SJU594",
+    "fundname": "合晟同晖71号私募证券投资基金"
+  },
+  {
+    "code": "JW383A",
+    "fundname": "鸣石金选12B号私募证券投资基金A类"
+  },
+  {
+    "code": "SJZ112",
+    "fundname": "湘水麓山五号"
+  },
+  {
+    "code": "-",
+    "fundname": "稳博1000指数增强1号B类"
+  },
+  {
+    "code": "SJT094",
+    "fundname": "兆信飞翔8号私募证券投资基金"
+  },
+  {
+    "code": "SJT536",
+    "fundname": "宁水国债宝2号"
+  },
+  {
+    "code": "SJZ288",
+    "fundname": "佑维CTA进取二号"
+  },
+  {
+    "code": "SJZ449",
+    "fundname": "文谛量化臻选九号"
+  },
+  {
+    "code": "SGY915",
+    "fundname": "丹羿步步高德兴1号私募证券投资基金"
+  },
+  {
+    "code": "JT003B",
+    "fundname": "万方稳利3号私募证券投资基金B"
+  },
+  {
+    "code": "DD3121",
+    "fundname": "国盛资管安心5号集合资产管理计划"
+  },
+  {
+    "code": "SLE601",
+    "fundname": "中邮永安国金新智能六号私募证券投资基金"
+  },
+  {
+    "code": "SLD388",
+    "fundname": "涌津涌赢11号私募证券投资基金"
+  },
+  {
+    "code": "DD3123",
+    "fundname": "国盛资管安心6号集合资产管理计划"
+  },
+  {
+    "code": "DD3127",
+    "fundname": "国盛资管安心7号集合资产管理计划"
+  },
+  {
+    "code": "SLE085",
+    "fundname": "富尊添利1号"
+  },
+  {
+    "code": "SLC001",
+    "fundname": "半夏宏观对冲私募证券投资基金E"
+  },
+  {
+    "code": "SLF505",
+    "fundname": "鼎森汇临期权量化1号"
+  },
+  {
+    "code": "SLH988",
+    "fundname": "跃威佳成一号"
+  },
+  {
+    "code": "DD3128",
+    "fundname": "国盛资管安心8号集合资产管理计划"
+  },
+  {
+    "code": "SLH435",
+    "fundname": "龙旗引航者三号"
+  },
+  {
+    "code": "SLL602",
+    "fundname": "丹羿锐进5号私募证券投资基金"
+  },
+  {
+    "code": "SLN991",
+    "fundname": "林园投资138号私募证券投资基金"
+  },
+  {
+    "code": "SLN475",
+    "fundname": "璞远丰利高收益债1号私募证券投资基金"
+  },
+  {
+    "code": "SLP371",
+    "fundname": "守朴进取2号私募证券投资基金"
+  },
+  {
+    "code": "SLQ270",
+    "fundname": "象限2号A期私募证券投资基金"
+  },
+  {
+    "code": "SLJ259",
+    "fundname": "泰恒中证500指数增强FOF"
+  },
+  {
+    "code": "SLS817",
+    "fundname": "诚奇中证500增强精选1期"
+  },
+  {
+    "code": "DE3829",
+    "fundname": "国海证券扬帆3046号集合资产管理计划"
+  },
+  {
+    "code": "SLQ755",
+    "fundname": "黑翼策略精选6号私募证券投资基金"
+  },
+  {
+    "code": "SA9170",
+    "fundname": "文多文睿二期私募证券投资基金"
+  },
+  {
+    "code": "DE3838",
+    "fundname": "扬帆3047号"
+  },
+  {
+    "code": "SLG867",
+    "fundname": "衍合500指数增强1号"
+  },
+  {
+    "code": "SLW259",
+    "fundname": "柏治固定收益1号"
+  },
+  {
+    "code": "SLM612",
+    "fundname": "前沿指数增强6号"
+  },
+  {
+    "code": "LJ517A",
+    "fundname": "思瑞二号2期A类"
+  },
+  {
+    "code": "SNA879",
+    "fundname": "雷根优享全天候八号私募证券投资基金"
+  },
+  {
+    "code": "SND798",
+    "fundname": "国优卷柏稳健对冲6号"
+  },
+  {
+    "code": "SNB550",
+    "fundname": "中孚权健1号"
+  },
+  {
+    "code": "GW171A",
+    "fundname": "长江东方港湾2号私募证券投资基金"
+  },
+  {
+    "code": "SLQ153",
+    "fundname": "林园七七健康私募证券投资基金"
+  },
+  {
+    "code": "SNC503",
+    "fundname": "友山山岩6号纯债固定收益"
+  },
+  {
+    "code": "T04526",
+    "fundname": "煜德投资贺瑞产业优选1号私募证券投资基金B"
+  },
+  {
+    "code": "SNC604",
+    "fundname": "均成宏观对冲1号"
+  },
+  {
+    "code": "SLZ516",
+    "fundname": "尊和私享3号私募证券投资基金"
+  },
+  {
+    "code": "SNK187",
+    "fundname": "因诺CTA1号"
+  },
+  {
+    "code": "SNK642",
+    "fundname": "鸣石广鸣中证1000指数增强1号"
+  },
+  {
+    "code": "SNJ032",
+    "fundname": "信安成长九号"
+  },
+  {
+    "code": "SNJ558",
+    "fundname": "翊安投资可转债8号私募证券投资基金1期"
+  },
+  {
+    "code": "SNL349",
+    "fundname": "禅龙星辰1号私募证券投资基金"
+  },
+  {
+    "code": "SNA190",
+    "fundname": "文谛光渝量化多策略1号私募证券投资基金"
+  },
+  {
+    "code": "SNP957",
+    "fundname": "尊享CTA1号"
+  },
+  {
+    "code": "XY5174",
+    "fundname": "跃威兴鑫一号A类份额"
+  },
+  {
+    "code": "SNJ611",
+    "fundname": "黑翼优选多策略3号私募证券投资基金A"
+  },
+  {
+    "code": "NL638A",
+    "fundname": "融升宝孚稳健一号私募证券投资基金A类"
+  },
+  {
+    "code": "SNJ519",
+    "fundname": "富涌谷水滴12号私募证券投资基金"
+  },
+  {
+    "code": "SNR129",
+    "fundname": "均泰华山一号"
+  },
+  {
+    "code": "SNR480",
+    "fundname": "念空中证500指数增强10号一期"
+  },
+  {
+    "code": "SNP818",
+    "fundname": "衍复300指增一号"
+  },
+  {
+    "code": "SNS326",
+    "fundname": "半夏平衡宏观对冲私募证券投资基金"
+  },
+  {
+    "code": "SNT339",
+    "fundname": "量道CTA精选17A号私募证券投资基金"
+  },
+  {
+    "code": "SND199",
+    "fundname": "先锋期货领航3号集合资产管理计划"
+  },
+  {
+    "code": "SNV700",
+    "fundname": "诚奇探普对冲一号私募证券投资基金"
+  },
+  {
+    "code": "GF0812",
+    "fundname": "灵均灵广量化对冲增强6号私募证券投资基金"
+  },
+  {
+    "code": "SND351",
+    "fundname": "丹羿精选7号1期私募证券投资基金"
+  },
+  {
+    "code": "SNU706",
+    "fundname": "星阔广厦1号中证500指数增强"
+  },
+  {
+    "code": "SNL654",
+    "fundname": "博普安泰2号1期"
+  },
+  {
+    "code": "SNW890",
+    "fundname": "希瓦小牛33号私募证券投资基金"
+  },
+  {
+    "code": "SNY292",
+    "fundname": "汉中林园投资健康中国1号"
+  },
+  {
+    "code": "SNS133",
+    "fundname": "睦沣五号"
+  },
+  {
+    "code": "SNU961",
+    "fundname": "善水源价值成长18号私募证券投资基金"
+  },
+  {
+    "code": "SNF235",
+    "fundname": "多打粮磬晟私募证券投资基金"
+  },
+  {
+    "code": "SNS444",
+    "fundname": "灵均君迎指数增强6号私募证券投资基金"
+  },
+  {
+    "code": "SNW165",
+    "fundname": "星阔广厦中证500指数增强"
+  },
+  {
+    "code": "SQA536",
+    "fundname": "图斯和贞私募证券投资基金"
+  },
+  {
+    "code": "SNW742",
+    "fundname": "大墉成长九号"
+  },
+  {
+    "code": "SQA948",
+    "fundname": "乾象中证500指数增强1号"
+  },
+  {
+    "code": "SQD622",
+    "fundname": "华安合鑫灵犀1号私募证券投资基金"
+  },
+  {
+    "code": "SNZ027",
+    "fundname": "启林信淮500指数增强1号1期私募证券投资基"
+  },
+  {
+    "code": "SNM342",
+    "fundname": "启林信淮500指数增强1号2期私募证券投资基"
+  },
+  {
+    "code": "SNS175",
+    "fundname": "启林信淮500指数增强1号3期私募证券投资基"
+  },
+  {
+    "code": "SQB660",
+    "fundname": "量魁Alpha一号私募证券投资基金A"
+  },
+  {
+    "code": "SQE357",
+    "fundname": "鼎一兑弈超越"
+  },
+  {
+    "code": "SQF619",
+    "fundname": "诚奇盈发中证500指数增强2号2期私募证券投"
+  },
+  {
+    "code": "SQF846",
+    "fundname": "国恩回报9号私募证券投资基金"
+  },
+  {
+    "code": "SNS349",
+    "fundname": "九坤股票量化优选2号"
+  },
+  {
+    "code": "SNM621",
+    "fundname": "赫富灵活对冲十五号A期私募证券投资基金"
+  },
+  {
+    "code": "XY3424",
+    "fundname": "雷根优享全天候五号"
+  },
+  {
+    "code": "SQF225",
+    "fundname": "星阔上林1号中证1000指数增强"
+  },
+  {
+    "code": "SLG865",
+    "fundname": "鸣石金选15号私募证券投资基金"
+  },
+  {
+    "code": "SNY373",
+    "fundname": "林园投资222号"
+  },
+  {
+    "code": "SQH940",
+    "fundname": "吾执固收一号"
+  },
+  {
+    "code": "SQG889",
+    "fundname": "博普CTA多策略5号1期"
+  },
+  {
+    "code": "SQG280",
+    "fundname": "均成CTA增强5号"
+  },
+  {
+    "code": "SQE847",
+    "fundname": "同犇11期子基金2号"
+  },
+  {
+    "code": "SNY291",
+    "fundname": "正圆川流一号私募证券投资基金"
+  },
+  {
+    "code": "GZ555B",
+    "fundname": "合晟彩云1号私募证券投资基金B"
+  },
+  {
+    "code": "SQN260",
+    "fundname": "华创期货年年创金1号集合资产管理计划"
+  },
+  {
+    "code": "SQJ050",
+    "fundname": "天演和合尊享一号私募证券投资基金"
+  },
+  {
+    "code": "SQG411",
+    "fundname": "瑞达期货-瑞智无忧共赢66号集合资产管理计"
+  },
+  {
+    "code": "SQQ459",
+    "fundname": "念觉中证500指数增强22号私募证券投资基金"
+  },
+  {
+    "code": "SQP622",
+    "fundname": "宏锡量化CTA7号二期私募证券投资基金"
+  },
+  {
+    "code": "SQQ803",
+    "fundname": "概率1000指增1号"
+  },
+  {
+    "code": "SQP800",
+    "fundname": "稳博中性稳稳系列1号"
+  },
+  {
+    "code": "SQS798",
+    "fundname": "红牛-龙航方德1号私募证券投资基金"
+  },
+  {
+    "code": "T04948",
+    "fundname": "启林启信5号私募证券投资基金B类"
+  },
+  {
+    "code": "SQG591",
+    "fundname": "黑翼申选中性多策略1号"
+  },
+  {
+    "code": "SA9231",
+    "fundname": "黑翼申选中性多策略1号1期私募证券投资基金"
+  },
+  {
+    "code": "SQT003",
+    "fundname": "大虎小满2号"
+  },
+  {
+    "code": "SQT076",
+    "fundname": "概率500指增1号"
+  },
+  {
+    "code": "SNL137",
+    "fundname": "国优卷柏牛牛1号"
+  },
+  {
+    "code": "SQR531",
+    "fundname": "易同精选十二期1号私募证券投资基金"
+  },
+  {
+    "code": "SNT059",
+    "fundname": "超量子中证500增强2号"
+  },
+  {
+    "code": "SQL199",
+    "fundname": "聚宽中证1000增强二号私募证券投资基金"
+  },
+  {
+    "code": "SQK833",
+    "fundname": "清哲理享云启1号私募证券投资基金"
+  },
+  {
+    "code": "SQR591",
+    "fundname": "先锋期货领航5号集合资产管理计划"
+  },
+  {
+    "code": "SQT659",
+    "fundname": "超量子中证500增强6号私募证券投资基金"
+  },
+  {
+    "code": "SQU715",
+    "fundname": "展旗致远能源1号"
+  },
+  {
+    "code": "SQQ873",
+    "fundname": "龙旗500指增1号私募证券投资基金A"
+  },
+  {
+    "code": "SQY447",
+    "fundname": "复熙固定收益1号"
+  },
+  {
+    "code": "QD906A",
+    "fundname": "赫富500指数增强二十一号A类"
+  },
+  {
+    "code": "SQU700",
+    "fundname": "展弘多策略3号私募证券投资基金"
+  },
+  {
+    "code": "SQU706",
+    "fundname": "展弘多策略9号"
+  },
+  {
+    "code": "SQQ769",
+    "fundname": "山楂树尊享1号私募证券投资基金"
+  },
+  {
+    "code": "SQZ285",
+    "fundname": "满风积分1号中证500指数增强"
+  },
+  {
+    "code": "SQQ818",
+    "fundname": "呈瑞正乾58号私募证券投资基金"
+  },
+  {
+    "code": "SQX987",
+    "fundname": "思勰投资股票量化精选2期"
+  },
+  {
+    "code": "SSD331",
+    "fundname": "汉中林园投资健康中国2号"
+  },
+  {
+    "code": "SSB959",
+    "fundname": "恒泰盈沃-探普股债配置FOF集合资管计划"
+  },
+  {
+    "code": "SSB957",
+    "fundname": "探普星级旗舰FOF"
+  },
+  {
+    "code": "SQZ224",
+    "fundname": "明汯股票精选1期"
+  },
+  {
+    "code": "SSE758",
+    "fundname": "衍复方德1000指增一号私募证券投资基金"
+  },
+  {
+    "code": "SSF240",
+    "fundname": "锋滔指数增强2号私募证券投资基金"
+  },
+  {
+    "code": "SSD740",
+    "fundname": "靖奇天元1号私募证券投资基金"
+  },
+  {
+    "code": "SQY969",
+    "fundname": "启林中证500指数增强32号私募证券投资基金"
+  },
+  {
+    "code": "SSG350",
+    "fundname": "善水源价值成长远山6号私募证券投资基金"
+  },
+  {
+    "code": "SSH078",
+    "fundname": "复熙固定收益2号私募证券投资基金"
+  },
+  {
+    "code": "SSJ434",
+    "fundname": "众壹资产量合一号"
+  },
+  {
+    "code": "SSJ498",
+    "fundname": "国恩回报1号私募证券投资基金"
+  },
+  {
+    "code": "SQQ595",
+    "fundname": "善水源价值成长22号私募证券投资基金"
+  },
+  {
+    "code": "SSK053",
+    "fundname": "理博远景1号"
+  },
+  {
+    "code": "SSB569",
+    "fundname": "君宜共达"
+  },
+  {
+    "code": "SSG351",
+    "fundname": "善水源价值成长远山8号私募证券投资基金"
+  },
+  {
+    "code": "SSK823",
+    "fundname": "信弘征程2号"
+  },
+  {
+    "code": "SQX272",
+    "fundname": "仁布积极进取6号私募证券投资基金"
+  },
+  {
+    "code": "LC491B",
+    "fundname": "思勰大数据选股一期B类"
+  },
+  {
+    "code": "SQR171",
+    "fundname": "合晟同晖固定收益51号"
+  },
+  {
+    "code": "SSQ719",
+    "fundname": "恒邦家旺贰号"
+  },
+  {
+    "code": "SSR201",
+    "fundname": "半夏稳健混合宏观对冲私募证券投资基金A"
+  },
+  {
+    "code": "Y8972C",
+    "fundname": "博普宏观对冲1号C类"
+  },
+  {
+    "code": "SSA971",
+    "fundname": "守朴懿德FOF私募证券投资基金"
+  },
+  {
+    "code": "SSN412",
+    "fundname": "启林安兴中证1000指数增强"
+  },
+  {
+    "code": "NK284A",
+    "fundname": "量道多策略增强1号A类"
+  },
+  {
+    "code": "SSU076",
+    "fundname": "启林广进中证1000指数增强A"
+  },
+  {
+    "code": "SSU315",
+    "fundname": "凡二鑫享稳健1号1期私募证券投资基金"
+  },
+  {
+    "code": "SSS248",
+    "fundname": "和合中证1000指增"
+  },
+  {
+    "code": "SSR312",
+    "fundname": "明睿聚宝盆策略3期私募证券投资基金"
+  },
+  {
+    "code": "SQN387",
+    "fundname": "睿亿投资稳健增长1号私募证券投资基金A期"
+  },
+  {
+    "code": "SA1755",
+    "fundname": "紫杰宏阳1号私募证券投资基金"
+  },
+  {
+    "code": "SSQ546",
+    "fundname": "星阔上林18号中证1000指数增强私募证券投资"
+  },
+  {
+    "code": "SQQ877",
+    "fundname": "龙旗300指增1号私募证券投资基金A"
+  },
+  {
+    "code": "SSS479",
+    "fundname": "青骊银鞍3号私募证券投资基金"
+  },
+  {
+    "code": "SSF696",
+    "fundname": "友山亲友成长001"
+  },
+  {
+    "code": "SQH887",
+    "fundname": "仲阳金石九州私募证券投资基金1号子基金"
+  },
+  {
+    "code": "SSZ098",
+    "fundname": "稳博量化选股匠心系列1号"
+  },
+  {
+    "code": "SSV719",
+    "fundname": "星阔山海10号股票优选"
+  },
+  {
+    "code": "T04735",
+    "fundname": "丹羿精选7号私募证券投资基金B类"
+  },
+  {
+    "code": "SSY172",
+    "fundname": "博普CTA股票全市场一号1期私募证券投资基金"
+  },
+  {
+    "code": "QA116B",
+    "fundname": "睿亿投资稳健增长1号私募证券投资基金B"
+  },
+  {
+    "code": "SSZ209",
+    "fundname": "巨量均衡CTA一号"
+  },
+  {
+    "code": "S3ZWRV",
+    "fundname": "白鹭安享一号私募证券投资基金A"
+  },
+  {
+    "code": "STA368",
+    "fundname": "祝融金霖二号"
+  },
+  {
+    "code": "SNF712",
+    "fundname": "锐联多元化旗舰二号私募证券投资基金"
+  },
+  {
+    "code": "QX044A",
+    "fundname": "思勰投资沣汇1号私募证券投资基金A"
+  },
+  {
+    "code": "SSM349",
+    "fundname": "因诺天机64号A期私募证券投资基金"
+  },
+  {
+    "code": "STA259",
+    "fundname": "亘曦财富5号私募证券投资基金"
+  },
+  {
+    "code": "SSX392",
+    "fundname": "沪通东木量化2号"
+  },
+  {
+    "code": "SU488C",
+    "fundname": "黑翼CTA-T21C类"
+  },
+  {
+    "code": "STD473",
+    "fundname": "正圆日月当空贰号"
+  },
+  {
+    "code": "STB997",
+    "fundname": "时间序列多策略套利1号私募证券投资基金"
+  },
+  {
+    "code": "TB489A",
+    "fundname": "泽桐量化选股初晨1号私募证券投资基金A"
+  },
+  {
+    "code": "SSY414",
+    "fundname": "埃尘东方之星FOF15号私募证券投资基金"
+  },
+  {
+    "code": "STG359",
+    "fundname": "守朴白羊精选1期私募证券投资基金"
+  },
+  {
+    "code": "XY4600",
+    "fundname": "君信荣耀六号"
+  },
+  {
+    "code": "STF821",
+    "fundname": "博普宏观对冲1号1期"
+  },
+  {
+    "code": "STE039",
+    "fundname": "合晟起源1号"
+  },
+  {
+    "code": "DSJQ02",
+    "fundname": "好投鼎实FOF九期私募证券投资基金B类"
+  },
+  {
+    "code": "STJ982",
+    "fundname": "守朴百合精选1期私募证券投资基金"
+  },
+  {
+    "code": "STJ436",
+    "fundname": "宁涌富-谷雨1号"
+  },
+  {
+    "code": "STH545",
+    "fundname": "凡二量化选股3号1期"
+  },
+  {
+    "code": "STK008",
+    "fundname": "守朴盘德私募证券投资基金"
+  },
+  {
+    "code": "XY6445",
+    "fundname": "博孚利CTA-FOF1A号"
+  },
+  {
+    "code": "STM132",
+    "fundname": "执古收益增强1号私募证券投资基金B类"
+  },
+  {
+    "code": "TM132C",
+    "fundname": "执古收益增强1号私募证券投资基金C类"
+  },
+  {
+    "code": "STH153",
+    "fundname": "鸣熙中证500指数增强尊享1号"
+  },
+  {
+    "code": "STK678",
+    "fundname": "优美利金安长牛16号私募证券投资基金A"
+  },
+  {
+    "code": "QX646C",
+    "fundname": "凡二量化中证500增强4号1期私募证券投资基金"
+  },
+  {
+    "code": "STD264",
+    "fundname": "宽德中证1000指数增强2号"
+  },
+  {
+    "code": "STN436",
+    "fundname": "守朴百合精选2期"
+  },
+  {
+    "code": "FA0046",
+    "fundname": "申港证券明珠FOF7号集合资产管理计划"
+  },
+  {
+    "code": "STC015",
+    "fundname": "守朴高收益债祥瑞6号私募证券投资基金"
+  },
+  {
+    "code": "STQ155",
+    "fundname": "衍复专享沪深300量化多头一号私募证券投资"
+  },
+  {
+    "code": "STP731",
+    "fundname": "上海宽德飞虹1号"
+  },
+  {
+    "code": "STQ664",
+    "fundname": "宁涌富谷雨9号"
+  },
+  {
+    "code": "D01373",
+    "fundname": "东恺新时代成长二号私募证券投资基金-B类"
+  },
+  {
+    "code": "STQ132",
+    "fundname": "岚湖瑞雪1号私募证券投资基金"
+  },
+  {
+    "code": "STS091",
+    "fundname": "世纪前沿量化优选1号"
+  },
+  {
+    "code": "SGV922",
+    "fundname": "兆信飞翔6号私募证券投资基金"
+  },
+  {
+    "code": "STH657",
+    "fundname": "俊丹大象五号私募证券投资基金"
+  },
+  {
+    "code": "STV395",
+    "fundname": "复熙联接11号三期私募证券投资基金"
+  },
+  {
+    "code": "STV389",
+    "fundname": "复熙联接7号三期私募证券投资基金"
+  },
+  {
+    "code": "STU638",
+    "fundname": "守朴百合稳健1期"
+  },
+  {
+    "code": "STS984",
+    "fundname": "凡二光盈量化选股1号1期私募证券投资基金"
+  },
+  {
+    "code": "STK442",
+    "fundname": "因诺沪深300指数增强3号A期私募证券投资基金"
+  },
+  {
+    "code": "SGK730",
+    "fundname": "拉曼致远9号私募证券投资基金"
+  },
+  {
+    "code": "SJD205",
+    "fundname": "榕树盛世增长十二期私募证券投资基金"
+  },
+  {
+    "code": "SY1762",
+    "fundname": "鼎盛发展一期私募证券投资基金"
+  },
+  {
+    "code": "SJF237",
+    "fundname": "富涌谷水滴1号私募证券投资基金"
+  },
+  {
+    "code": "SCF687",
+    "fundname": "同亨多策略一号私募证券投资基金"
+  },
+  {
+    "code": "SLJ689",
+    "fundname": "白鲸海德债券精选1号私募证券投资基金"
+  },
+  {
+    "code": "SY0842",
+    "fundname": "利位稳健1号私募基金"
+  },
+  {
+    "code": "S69226",
+    "fundname": "弢瑞楚正进取一号"
+  },
+  {
+    "code": "SLC722",
+    "fundname": "衍合量化市场中性1号私募证券投资基金"
+  },
+  {
+    "code": "SCR808",
+    "fundname": "创兆天天盈债券1号私募证券投资基金"
+  },
+  {
+    "code": "SET730",
+    "fundname": "恒瑞七期私募证券投资基金"
+  },
+  {
+    "code": "S81217",
+    "fundname": "恒瑞-中国梦二期私募证券投资基金"
+  },
+  {
+    "code": "SQD808",
+    "fundname": "恒识辰瀚B私募证券投资基金私募"
+  },
+  {
+    "code": "SNH963",
+    "fundname": "恒识天宏价值精选B私募证券投资基金私募"
+  },
+  {
+    "code": "SQT002",
+    "fundname": "恒识耘亿A私募证券投资基金"
+  },
+  {
+    "code": "STQ512",
+    "fundname": "衍合1000指数增强1号"
+  },
+  {
+    "code": "STT115",
+    "fundname": "半夏稳健混合宏观对冲私募证券投资基金B"
+  },
+  {
+    "code": "SVB976",
+    "fundname": "量道CTA精选18A号私募证券投资基金"
+  },
+  {
+    "code": "STK265",
+    "fundname": "泰舜君悦26号私募证券投资基金"
+  },
+  {
+    "code": "SSB059",
+    "fundname": "信弘征程对冲1号私募证券投资基金"
+  },
+  {
+    "code": "SNL837",
+    "fundname": "利得资本信诚3号私募证券投资基金"
+  },
+  {
+    "code": "SNH941",
+    "fundname": "佑诗启元2号中证500指数增强私募证券投资基金"
+  },
+  {
+    "code": "SNL730",
+    "fundname": "福升天信稳健1号固定收益类私募投资基金"
+  },
+  {
+    "code": "SQP060",
+    "fundname": "睿凝建隆量化中性1号私募证券投资基金"
+  },
+  {
+    "code": "SVD552",
+    "fundname": "泰舜稳健进取6号私募证券投资基金"
+  },
+  {
+    "code": "SJU295",
+    "fundname": "渡苇复利1号私募证券投资基金"
+  },
+  {
+    "code": "SLX485",
+    "fundname": "凡旭旮旯旭1号私募证券基金"
+  },
+  {
+    "code": "SNF290",
+    "fundname": "凡旭维纳斯1号私募证券基金"
+  },
+  {
+    "code": "SGR203",
+    "fundname": "渡苇北洋1号私募证券投资基金"
+  },
+  {
+    "code": "SCJ435",
+    "fundname": "渡苇春晓1号私募证券投资基金"
+  },
+  {
+    "code": "SN2529",
+    "fundname": "金牛宽投全天候9号私募证券基金"
+  },
+  {
+    "code": "SVH621",
+    "fundname": "祝融进取二号"
+  },
+  {
+    "code": "STL980",
+    "fundname": "阿巴马瑞雪丰盈9号私募证券投资基金"
+  },
+  {
+    "code": "SEF884",
+    "fundname": "宽投顺阳私募证券基金"
+  },
+  {
+    "code": "STG179",
+    "fundname": "博普安泰2号2期私募证券投资基金"
+  },
+  {
+    "code": "SVB766",
+    "fundname": "格行红橡中性1号私募证券投资基金"
+  },
+  {
+    "code": "STT805",
+    "fundname": "先锋期货臻选FOF1号集合资产管理计划"
+  },
+  {
+    "code": "SCX598",
+    "fundname": "纽富斯价值精选证券投资私募基金"
+  },
+  {
+    "code": "TR266A",
+    "fundname": "量信扬帆远航CTA私募证券投资基金A"
+  },
+  {
+    "code": "SET105",
+    "fundname": "海浦中证500指数增强3号私募证券投资基金"
+  },
+  {
+    "code": "SVM042",
+    "fundname": "久期量和量化多头1号"
+  },
+  {
+    "code": "SVK321",
+    "fundname": "理博红橡中性1号"
+  },
+  {
+    "code": "SQS497",
+    "fundname": "雷根创新全天候六号私募证券投资基金"
+  },
+  {
+    "code": "STM624",
+    "fundname": "鼎诺益扬6号私募证券投资基金"
+  },
+  {
+    "code": "SSH138",
+    "fundname": "皓邦-尊享CTA7号"
+  },
+  {
+    "code": "STR266",
+    "fundname": "量信扬帆远航CTA私募证券投资基金"
+  },
+  {
+    "code": "SVK922",
+    "fundname": "阿巴马天马行空1号私募证券投资基金"
+  },
+  {
+    "code": "SVN001",
+    "fundname": "柏治方德全盛固定收益1号私募证券投资基金"
+  },
+  {
+    "code": "T05959",
+    "fundname": "柏治方德全盛固定收益1号私募证券投资基金B类"
+  },
+  {
+    "code": "SNM834",
+    "fundname": "摩旗屯蒙2号量化宏观中性私募证券投资基金"
+  },
+  {
+    "code": "SQD295",
+    "fundname": "富尊量化3号私募证券投资基金"
+  },
+  {
+    "code": "STQ280",
+    "fundname": "白鹭博学多策略一号5期私募证券投资基金"
+  },
+  {
+    "code": "SVN252",
+    "fundname": "泰舜安吉宝盈1号私募证券投资基金"
+  },
+  {
+    "code": "STJ098",
+    "fundname": "会世元丰8号"
+  },
+  {
+    "code": "SQH880",
+    "fundname": "仲阳金石九州私募证券投资基金"
+  },
+  {
+    "code": "SQU186",
+    "fundname": "大虎小满3号私募证券投资基金"
+  },
+  {
+    "code": "SQT583",
+    "fundname": "富涌谷水滴21号私募证券投资基金"
+  },
+  {
+    "code": "STB619",
+    "fundname": "国恩回报17号"
+  },
+  {
+    "code": "SSD961",
+    "fundname": "伯兄永兴中证500指数增强私募证券投资基金"
+  },
+  {
+    "code": "T05273",
+    "fundname": "博普稳和一号证券投资私募基金C类"
+  },
+  {
+    "code": "SJR606",
+    "fundname": "殊馥馥盛1号私募证券投资基金"
+  },
+  {
+    "code": "SVH770",
+    "fundname": "永利晨曦1号"
+  },
+  {
+    "code": "STQ128",
+    "fundname": "伯兄永康中证1000指数增强私募证券投资基金"
+  },
+  {
+    "code": "STU948",
+    "fundname": "伯兄明道中证500指数增强私募证券投资基金"
+  },
+  {
+    "code": "SVQ982",
+    "fundname": "国联期货欣荣1号FOF集合资产管理计划"
+  },
+  {
+    "code": "SVQ677",
+    "fundname": "国贸安心八号集合资产管理计划"
+  },
+  {
+    "code": "STQ662",
+    "fundname": "宁涌富-小满8号私募证券投资基金"
+  },
+  {
+    "code": "SSX480",
+    "fundname": "千象卓越3号B期中证500指数增强私募证券投资基金"
+  },
+  {
+    "code": "SVE312",
+    "fundname": "添橙锦松机构定制雪球私募证券投资基金"
+  },
+  {
+    "code": "SJX729",
+    "fundname": "信泰千象成长2号私募证券投资基金"
+  },
+  {
+    "code": "SVS513",
+    "fundname": "九谦CTA一号"
+  },
+  {
+    "code": "SVQ385",
+    "fundname": "琅熙扬帆1号"
+  },
+  {
+    "code": "SNF170",
+    "fundname": "阿杏葵花籽8号私募证券投资基金"
+  },
+  {
+    "code": "SGC030",
+    "fundname": "维引新安债券私募证券投资基金"
+  },
+  {
+    "code": "SER501",
+    "fundname": "维引钱塘固收增强私募投资基金"
+  },
+  {
+    "code": "SVN716",
+    "fundname": "启林昆仑CTA1号私募证券投资基金"
+  },
+  {
+    "code": "SGT338",
+    "fundname": "阳泽格林另类量化1号私募证券投资基金"
+  },
+  {
+    "code": "SNC306",
+    "fundname": "恒德智信3号私募证券投资基金"
+  },
+  {
+    "code": "SA291A",
+    "fundname": "岚湖丰泽3号私募证券投资基金A"
+  },
+  {
+    "code": "SNX974",
+    "fundname": "维引四明ESG多策略私募证券投资基金"
+  },
+  {
+    "code": "SNN573",
+    "fundname": "竹润乐其6号私募证券投资基金"
+  },
+  {
+    "code": "STE280",
+    "fundname": "锐联多元化一号三期私募证券投资基金"
+  },
+  {
+    "code": "SVR069",
+    "fundname": "思勰投资-中证500指数增强8号私募证券投资基金"
+  },
+  {
+    "code": "XY7689",
+    "fundname": "正圆长兴二十一号"
+  },
+  {
+    "code": "SVW967",
+    "fundname": "岚湖清泉1号"
+  },
+  {
+    "code": "SVB341",
+    "fundname": "半夏宏观对冲私募证券投资基金F"
+  },
+  {
+    "code": "SVD539",
+    "fundname": "林园投资国经专享1号私募证券投资基金"
+  },
+  {
+    "code": "SJG267",
+    "fundname": "歆享海盈17号私募证券投资基金"
+  },
+  {
+    "code": "SVY882",
+    "fundname": "权舆CTA稳进1号"
+  },
+  {
+    "code": "SJE170",
+    "fundname": "聚亿凡旭私募证券投资基金"
+  },
+  {
+    "code": "STY155",
+    "fundname": "冠通资管宝怡1号集合资产管理计划"
+  },
+  {
+    "code": "TW768A",
+    "fundname": "宁水宏观对冲2号A类份额"
+  },
+  {
+    "code": "STX761",
+    "fundname": "衍合量化选股1号"
+  },
+  {
+    "code": "SSN847",
+    "fundname": "庄贤锐进专享灵活7号"
+  },
+  {
+    "code": "STW781",
+    "fundname": "佑维CTA平衡七号1期私募证券投资基金"
+  },
+  {
+    "code": "SVS788",
+    "fundname": "合晟同晖20号"
+  },
+  {
+    "code": "VY141A",
+    "fundname": "安中全球混合资本债券私募证券投资基金A"
+  },
+  {
+    "code": "SVQ392",
+    "fundname": "赢康迎新二号私募证券投资基金"
+  },
+  {
+    "code": "GZ942A",
+    "fundname": "跃威恒鑫一号A类"
+  },
+  {
+    "code": "VH344B",
+    "fundname": "正圆长兴二十号B类份额"
+  },
+  {
+    "code": "STY812",
+    "fundname": "天算中证1000指数增强"
+  },
+  {
+    "code": "SXA614",
+    "fundname": "首创京都创丰1号集合资产管理计划"
+  },
+  {
+    "code": "SVE547",
+    "fundname": "富涌谷水滴31号私募证券投资基金"
+  },
+  {
+    "code": "SVA771",
+    "fundname": "水木博雅稳健1号私募证券投资基金"
+  },
+  {
+    "code": "SJS027",
+    "fundname": "百奕传家一号私募证券投资基金"
+  },
+  {
+    "code": "SQR844",
+    "fundname": "简雍中性一号私募证券投资基金"
+  },
+  {
+    "code": "SGM997",
+    "fundname": "进崟金山稳进一号混合类私募证券投资基金"
+  },
+  {
+    "code": "STM030",
+    "fundname": "泾溪晓峰成长2号私募证券投资基金"
+  },
+  {
+    "code": "SJS701",
+    "fundname": "锐天标准300指数增强1号私募证券投资基金"
+  },
+  {
+    "code": "SLK988",
+    "fundname": "锐天锐思一号私募证券投资基金"
+  },
+  {
+    "code": "SLP518",
+    "fundname": "锐天中证1000指数增强1号私募证券投资基金"
+  },
+  {
+    "code": "SSZ960",
+    "fundname": "瑞锐量化CTA2号私募证券基金"
+  },
+  {
+    "code": "SX3632",
+    "fundname": "瑞文一号私募基金"
+  },
+  {
+    "code": "SNP401",
+    "fundname": "瑞信沣林三号私募证券投资基金"
+  },
+  {
+    "code": "SQD690",
+    "fundname": "天算CTA1号私募证券投资基金"
+  },
+  {
+    "code": "SNB128",
+    "fundname": "万柏多策略3号私募证券投资基金"
+  },
+  {
+    "code": "SJF762",
+    "fundname": "万柏礼赞1号私募证券投资基金"
+  },
+  {
+    "code": "SSD468",
+    "fundname": "万柏周周享1号私募证券投资基金"
+  },
+  {
+    "code": "SNP584",
+    "fundname": "吾执零零号私募证券投资基金"
+  },
+  {
+    "code": "SVQ054",
+    "fundname": "星汇金星2号私募证券投资基金"
+  },
+  {
+    "code": "SVQ170",
+    "fundname": "星汇星月2号私募证券投资基金"
+  },
+  {
+    "code": "SJS473",
+    "fundname": "衍盛价值成长一期私募证券投资基金"
+  },
+  {
+    "code": "SEQ819",
+    "fundname": "衍盛量化精选一期私募投资基金"
+  },
+  {
+    "code": "SCY352",
+    "fundname": "衍盛指数增强1号私募投资基金"
+  },
+  {
+    "code": "SNK373",
+    "fundname": "英旷尊享1号私募证券投资基金"
+  },
+  {
+    "code": "SSQ987",
+    "fundname": "泽桐中盈指数增强1号私募证券投资基金"
+  },
+  {
+    "code": "XY4507",
+    "fundname": "长量春雷2号CTA"
+  },
+  {
+    "code": "SSU339",
+    "fundname": "锴量天宫一号私募证券投资基金"
+  },
+  {
+    "code": "STK261",
+    "fundname": "橡杉中证500量化精选三号A款私募证券投资基金"
+  },
+  {
+    "code": "SXD502",
+    "fundname": "证大远航创新1号"
+  },
+  {
+    "code": "SXD206",
+    "fundname": "恒邦白沙一号"
+  },
+  {
+    "code": "SXD146",
+    "fundname": "首创京都瑾通1号集合资产管理计划"
+  },
+  {
+    "code": "SXB860",
+    "fundname": "一马金品量化稳健1号"
+  },
+  {
+    "code": "SLJ000",
+    "fundname": "璞远半年添利多策略1号私募证券投资基金"
+  },
+  {
+    "code": "SXA188",
+    "fundname": "仲阳博观量化选股1号私募证券投资基金1期子基金"
+  },
+  {
+    "code": "STZ707",
+    "fundname": "复熙固定收益5号私募证券投资基金"
+  },
+  {
+    "code": "STZ942",
+    "fundname": "合晟起源2号"
+  },
+  {
+    "code": "STT511",
+    "fundname": "合晟同晖75号私募证券投资基金"
+  },
+  {
+    "code": "SVC936",
+    "fundname": "鸣熙500指数增强5号私募证券投资基金"
+  },
+  {
+    "code": "SQT719",
+    "fundname": "鲨鱼南海量化私募证券投资基金"
+  },
+  {
+    "code": "ZB0453",
+    "fundname": "鲨鱼深海量化私募证券投资基金C"
+  },
+  {
+    "code": "SQG050",
+    "fundname": "鲨鱼永续东海量化私募证券投资基金"
+  },
+  {
+    "code": "XB291A",
+    "fundname": "申毅海锟1号私募证券投资基金A类"
+  },
+  {
+    "code": "SXF925",
+    "fundname": "满风微分1号市场中性"
+  },
+  {
+    "code": "SSZ705",
+    "fundname": "守朴仁德专享私募证券投资基金"
+  },
+  {
+    "code": "SXH990",
+    "fundname": "证大远航成长1号"
+  },
+  {
+    "code": "SVX907",
+    "fundname": "正圆川流二号私募证券投资基金"
+  },
+  {
+    "code": "SXJ677",
+    "fundname": "证大远航创新2号"
+  },
+  {
+    "code": "SNJ010",
+    "fundname": "中金量化-贝叶斯稳健1号私募证券投资基金"
+  },
+  {
+    "code": "SGL599",
+    "fundname": "中金量化-汉江5号私募证券投资基金"
+  },
+  {
+    "code": "SXG766",
+    "fundname": "古曲高远六号私募证券投资基金"
+  },
+  {
+    "code": "SXF058",
+    "fundname": "岚湖水木10号私募证券投资基金"
+  },
+  {
+    "code": "SVY138",
+    "fundname": "赢康红火私募证券投资基金"
+  },
+  {
+    "code": "SXH745",
+    "fundname": "明亚基金懿德1号集合资产管理计划"
+  },
+  {
+    "code": "SSY826",
+    "fundname": "久期量和CTA1号私募证券投资基金"
+  },
+  {
+    "code": "SGW925",
+    "fundname": "久期量和多空1号私募证券投资基金"
+  },
+  {
+    "code": "XJ903A",
+    "fundname": "盈立方乐享3号私募证券投资基金"
+  },
+  {
+    "code": "SXL736",
+    "fundname": "永誉天泽经纶四号证券投资私募基金"
+  },
+  {
+    "code": "SXM394",
+    "fundname": "富尊双周添利私募证券投资基金"
+  },
+  {
+    "code": "SXF080",
+    "fundname": "岚湖丰泽1号私募证券投资基金A"
+  },
+  {
+    "code": "SXB291",
+    "fundname": "申毅海锟1号私募证券投资基金"
+  },
+  {
+    "code": "SXP742",
+    "fundname": "证大远航创新3号"
+  },
+  {
+    "code": "SXH996",
+    "fundname": "尊和策略精选6号私募证券投资基金"
+  },
+  {
+    "code": "XK901A",
+    "fundname": "盈立方乐享5号私募证券投资基金"
+  },
+  {
+    "code": "SSR519",
+    "fundname": "竹润周添利固定收益1号私募证券投资基金"
+  },
+  {
+    "code": "SXQ762",
+    "fundname": "富尊致鑫私募证券投资基金"
+  },
+  {
+    "code": "SNR563",
+    "fundname": "赢康汇创一号"
+  },
+  {
+    "code": "XM005B",
+    "fundname": "量魁湘水麓山六号私募证券投资基金B"
+  },
+  {
+    "code": "SXQ076",
+    "fundname": "守朴进取3号1期私募证券投资基金"
+  },
+  {
+    "code": "SXN905",
+    "fundname": "恒德添益22号私募证券投资基金"
+  },
+  {
+    "code": "XL287A",
+    "fundname": "宁涌富谷雨19号A类"
+  },
+  {
+    "code": "S80396",
+    "fundname": "循远成长一号证券投资基金"
+  },
+  {
+    "code": "SXG455",
+    "fundname": "稳博1000指数增强尊享9号"
+  },
+  {
+    "code": "SXK824",
+    "fundname": "励京资本稳健二十三号私募证券投资基金"
+  },
+  {
+    "code": "XL694A",
+    "fundname": "盈立方乐享6号私募证券投资基金"
+  },
+  {
+    "code": "SXJ383",
+    "fundname": "仲阳天王星恒益500增强一号私募证券投资基金"
+  },
+  {
+    "code": "SXN104",
+    "fundname": "大虎小满17号"
+  },
+  {
+    "code": "SXL302",
+    "fundname": "哈希可转债量化对冲1号A类"
+  },
+  {
+    "code": "SXD952",
+    "fundname": "励京资本稳健十八号私募证券投资基金"
+  },
+  {
+    "code": "SXE640",
+    "fundname": "励京资本稳健十九号私募证券投资基金"
+  },
+  {
+    "code": "SXS528",
+    "fundname": "添橙旗舰精选二号私募证券投资基金"
+  },
+  {
+    "code": "SXD509",
+    "fundname": "稳博中性尊享3号私募证券投资基金"
+  },
+  {
+    "code": "SXS637",
+    "fundname": "辰钰飒露紫3号私募证券投资基金"
+  },
+  {
+    "code": "SXV091",
+    "fundname": "因诺方德CTA2号"
+  },
+  {
+    "code": "STE366",
+    "fundname": "蜂起CTA对冲进取1号私募证券投资基金"
+  },
+  {
+    "code": "SXS997",
+    "fundname": "勤辰森裕泉圣私募证券投资基金"
+  },
+  {
+    "code": "FA0073",
+    "fundname": "申港证券璟琪1号集合资产管理计划"
+  },
+  {
+    "code": "SXR715",
+    "fundname": "香农金选量化对冲1号"
+  },
+  {
+    "code": "STG592",
+    "fundname": "赢康盈丰二号私募证券投资基金"
+  },
+  {
+    "code": "SXW456",
+    "fundname": "因诺CTA精选1号"
+  },
+  {
+    "code": "XS727A",
+    "fundname": "添橙山石可玉二号私募证券投资基金A"
+  },
+  {
+    "code": "SXW149",
+    "fundname": "恒力丰收1号集合资产管理计划"
+  },
+  {
+    "code": "XS627A",
+    "fundname": "盈立方乐享7号私募证券投资基金"
+  },
+  {
+    "code": "SXK392",
+    "fundname": "赢康和谐一号私募证券投资基金"
+  },
+  {
+    "code": "SQZ506",
+    "fundname": "道昆恒乾私募证券投资基金"
+  },
+  {
+    "code": "SXL098",
+    "fundname": "励京资本稳健二十二号"
+  },
+  {
+    "code": "SXV200",
+    "fundname": "励京资本稳健二十七号私募证券投资基金"
+  },
+  {
+    "code": "E10265",
+    "fundname": "财达证券睿达双季盈1号集合资产管理计划"
+  },
+  {
+    "code": "D60224",
+    "fundname": "华鑫投米大展宏兔"
+  },
+  {
+    "code": "SVC755",
+    "fundname": "赢康丰登二号私募证券投资基金"
+  },
+  {
+    "code": "XX724B",
+    "fundname": "创奥智晟2号私募证券投资基金B"
+  },
+  {
+    "code": "XY124A",
+    "fundname": "宁水德远国债宝私募证券投资基金A"
+  },
+  {
+    "code": "XY124B",
+    "fundname": "宁水德远国债宝私募证券投资基金B"
+  },
+  {
+    "code": "XY4647",
+    "fundname": "中孚权健1号"
+  },
+  {
+    "code": "SXT570",
+    "fundname": "宁水美债宝1号私募证券投资基金"
+  },
+  {
+    "code": "ZB0901",
+    "fundname": "龙隐专享定制19号私募证券投资基金B"
+  },
+  {
+    "code": "XW213A",
+    "fundname": "盈立方乐享8号私募证券投资基金"
+  },
+  {
+    "code": "SXC044",
+    "fundname": "赢康创利私募证券投资基金"
+  },
+  {
+    "code": "ZB325B",
+    "fundname": "创奥股指CTA1号私募证券投资基金B"
+  },
+  {
+    "code": "ZB326B",
+    "fundname": "创奥量化灵活对冲1号私募证券投资基金B"
+  },
+  {
+    "code": "SVE548",
+    "fundname": "富涌谷拾贝2号私募证券投资基金A"
+  },
+  {
+    "code": "GD758B",
+    "fundname": "天算稳健10号B类"
+  },
+  {
+    "code": "SZD532",
+    "fundname": "守朴长辉1号1期"
+  },
+  {
+    "code": "SXZ209",
+    "fundname": "纯达可转债七号私募证券投资基金"
+  },
+  {
+    "code": "SZA253",
+    "fundname": "方德宽德中证500指数增强16号私募证券投资基金"
+  },
+  {
+    "code": "SXQ943",
+    "fundname": "因诺债券3号私募证券投资基金A"
+  },
+  {
+    "code": "SZF287",
+    "fundname": "乾象股票精选进取1期私募证券投资基金"
+  },
+  {
+    "code": "SZG426",
+    "fundname": "哈希短周期CTA专享"
+  },
+  {
+    "code": "SZH739",
+    "fundname": "金元标品1号"
+  },
+  {
+    "code": "SZG751",
+    "fundname": "玖鹏宏图1号"
+  },
+  {
+    "code": "SZH468",
+    "fundname": "龙隐专享定制26号私募证券投资基金"
+  },
+  {
+    "code": "T06875",
+    "fundname": "龙隐专享定制26号私募证券投资基金B类"
+  },
+  {
+    "code": "SZH226",
+    "fundname": "勤辰森裕盛永3号私募证券投资基金"
+  },
+  {
+    "code": "SLV394",
+    "fundname": "林园投资166号"
+  },
+  {
+    "code": "SLA113",
+    "fundname": "林园投资114号"
+  },
+  {
+    "code": "SXN922",
+    "fundname": "朴石徽煌1号私募证券投资基金"
+  },
+  {
+    "code": "SXN928",
+    "fundname": "朴石徽煌2号私募证券投资基金"
+  },
+  {
+    "code": "DKXF1B",
+    "fundname": "东恺成长先锋一号私募证券投资基金B类"
+  },
+  {
+    "code": "ZH264B",
+    "fundname": "百创智远顺为1号私募证券投资基金B"
+  },
+  {
+    "code": "XY6580",
+    "fundname": "晋蓉合创纯债1号"
+  },
+  {
+    "code": "XY6797",
+    "fundname": "晋蓉合创纯债2号"
+  },
+  {
+    "code": "XY5271",
+    "fundname": "晋蓉合创纯债3号"
+  },
+  {
+    "code": "XY6389",
+    "fundname": "晋蓉合创荣耀1号"
+  },
+  {
+    "code": "SVA198",
+    "fundname": "赢康丰收九号私募证券投资基金"
+  },
+  {
+    "code": "SZJ540",
+    "fundname": "鸣熙绝对收益1号"
+  },
+  {
+    "code": "SZB139",
+    "fundname": "玖鹏橙心研选快乐兴球1号私募证券投资基金"
+  },
+  {
+    "code": "XL285A",
+    "fundname": "宁涌富谷雨11号A类"
+  },
+  {
+    "code": "SXY303",
+    "fundname": "昆辰腾飞6号"
+  },
+  {
+    "code": "SVQ386",
+    "fundname": "赢康丰沛一号私募证券投资基金"
+  },
+  {
+    "code": "SXL854",
+    "fundname": "利曦优债3号私募证券投资基金"
+  },
+  {
+    "code": "XV625A",
+    "fundname": "上海高恩价值策略3号私募证券投资基金A"
+  },
+  {
+    "code": "XV626A",
+    "fundname": "上海高恩医药进取3号私募证券投资基金A"
+  },
+  {
+    "code": "SR7082",
+    "fundname": "波粒二象趋势1私募基金"
+  },
+  {
+    "code": "SZC660",
+    "fundname": "鼎泉资本金猪稳健3号"
+  },
+  {
+    "code": "SZP864",
+    "fundname": "东海龙鼎运时52号集合资产管理计划"
+  },
+  {
+    "code": "SVY126",
+    "fundname": "赢康丰足私募证券投资基金"
+  },
+  {
+    "code": "TX628A",
+    "fundname": "盈立方乐享2号私募证券投资基金"
+  },
+  {
+    "code": "ZR941B",
+    "fundname": "岚湖丰泽2号私募证券投资基金B"
+  },
+  {
+    "code": "SZQ278",
+    "fundname": "方德宽德中证1000指数增强8号私募证券投资基金"
+  },
+  {
+    "code": "SZQ149",
+    "fundname": "满风积分4号中证1000指数增强"
+  },
+  {
+    "code": "SXR562",
+    "fundname": "中润东方合意安心债券一号私募证券投资基金"
+  },
+  {
+    "code": "SZQ165",
+    "fundname": "天算中证1000指数增强3号私募证券投资基金"
+  },
+  {
+    "code": "SXL856",
+    "fundname": "利曦优债4号私募证券投资基金"
+  },
+  {
+    "code": "SZN377",
+    "fundname": "安诚数盈江诚1号私募证券投资基金A类"
+  },
+  {
+    "code": "SZR941",
+    "fundname": "岚湖丰泽2号私募证券投资基金A"
+  },
+  {
+    "code": "SZH742",
+    "fundname": "宽德中证1000指数增强17号私募证券投资基金"
+  },
+  {
+    "code": "XF080B",
+    "fundname": "岚湖丰泽1号私募证券投资基金B"
+  },
+  {
+    "code": "SS3397",
+    "fundname": "鸣石春天沪深300指数增强1号私募投资基金A"
+  },
+  {
+    "code": "SZH625",
+    "fundname": "信弘骐民量化精选6号私募证券投资基金"
+  },
+  {
+    "code": "SZS158",
+    "fundname": "鸣熙1000指数增强1号"
+  },
+  {
+    "code": "SNU158",
+    "fundname": "中电投先融致稳1号集合资产管理计划"
+  },
+  {
+    "code": "SXZ904",
+    "fundname": "纯达蓝宝石19号私募证券投资基金"
+  },
+  {
+    "code": "SZU974",
+    "fundname": "天钺百合精选3期"
+  },
+  {
+    "code": "SZU977",
+    "fundname": "天钺轻舟"
+  },
+  {
+    "code": "STR161",
+    "fundname": "清哲理享进取1号"
+  },
+  {
+    "code": "SZN506",
+    "fundname": "因诺天问22号私募证券投资基金A"
+  },
+  {
+    "code": "SZH291",
+    "fundname": "鼎泉资本金猪大鹏5号"
+  },
+  {
+    "code": "SZR303",
+    "fundname": "天钺酬勤1号私募证券投资基金"
+  },
+  {
+    "code": "VY141B",
+    "fundname": "安中全球混合资本债券私募证券投资基金B"
+  },
+  {
+    "code": "SZU301",
+    "fundname": "玖鹏长兴研选5号私募证券投资基金A类"
+  },
+  {
+    "code": "SZV498",
+    "fundname": "图灵佩利1号"
+  },
+  {
+    "code": "SXE479",
+    "fundname": "弈倍专享二号"
+  },
+  {
+    "code": "SZE663",
+    "fundname": "坤望量化对冲5号"
+  },
+  {
+    "code": "SLS873",
+    "fundname": "中润东方晨星一号私募证券投资基金"
+  },
+  {
+    "code": "SA279B",
+    "fundname": "恒德繁星1号私募证券投资基金B"
+  },
+  {
+    "code": "SZD351",
+    "fundname": "交叉智能-量化增强2号私募证券投资基金"
+  },
+  {
+    "code": "SZW306",
+    "fundname": "超量子量化中性1号"
+  },
+  {
+    "code": "SNQ490",
+    "fundname": "东航金融-CTA孵化二期私募证券投资基金"
+  },
+  {
+    "code": "S23884",
+    "fundname": "东航金融-CTA精英孵化私募投资基金"
+  },
+  {
+    "code": "SJT658",
+    "fundname": "东航金融-量化精选一期私募证券投资基金"
+  },
+  {
+    "code": "SXG713",
+    "fundname": "金澹远洋2号私募证券投资基金"
+  },
+  {
+    "code": "SXL253",
+    "fundname": "金澹远洋3号私募证券投资基金"
+  },
+  {
+    "code": "SXV152",
+    "fundname": "赢康创利三号私募证券投资基金"
+  },
+  {
+    "code": "SZS466",
+    "fundname": "合晟同晖恒信1号私募证券投资基金"
+  },
+  {
+    "code": "SXV147",
+    "fundname": "赢康红火二号私募证券投资基金"
+  },
+  {
+    "code": "SNW801",
+    "fundname": "中电投先融鸿升量化CTA1号集合资产管理计划"
+  },
+  {
+    "code": "SZN922",
+    "fundname": "明亚基金铭石1号集合资产管理计划"
+  },
+  {
+    "code": "SZN926",
+    "fundname": "明亚基金铭石2号集合资产管理计划"
+  },
+  {
+    "code": "STH015",
+    "fundname": "明亚基金泽亨1号集合资产管理计划"
+  },
+  {
+    "code": "XY6940",
+    "fundname": "恒邦家旺贰号私募证券投资基金"
+  },
+  {
+    "code": "SZY143",
+    "fundname": "中电投先融致稳6号集合资产管理计划"
+  },
+  {
+    "code": "SXF836",
+    "fundname": "岚湖瑞雪20号私募证券投资基金"
+  },
+  {
+    "code": "SVA869",
+    "fundname": "盈立方乐享16号私募证券投资基金"
+  },
+  {
+    "code": "SX4087",
+    "fundname": "珠池可转债量化精选2期私募投资基金"
+  },
+  {
+    "code": "SGY286",
+    "fundname": "珠池量化慧眼掘金3期私募证券投资基金"
+  },
+  {
+    "code": "SA2126",
+    "fundname": "岚湖丰泽3号私募证券投资基金B"
+  },
+  {
+    "code": "S09456",
+    "fundname": "上海宽德量化选股1号私募证券投资基金"
+  },
+  {
+    "code": "SVE325",
+    "fundname": "合晟品悦1号私募证券投资基金"
+  },
+  {
+    "code": "SND053",
+    "fundname": "和合资管锦绣合胜1号集合资产管理计划"
+  },
+  {
+    "code": "SA287B",
+    "fundname": "恒德繁星2号私募证券投资基金B"
+  },
+  {
+    "code": "E10316",
+    "fundname": "财达瑞林年年享1号集合资产管理计划"
+  },
+  {
+    "code": "SZT851",
+    "fundname": "禅龙鑫鑫添利1号私募证券投资基金"
+  },
+  {
+    "code": "SXZ434",
+    "fundname": "赢康厚鑫三号私募证券投资基金"
+  },
+  {
+    "code": "SZZ752",
+    "fundname": "稳博量化选股匠心系列1-5号私募证券投资基金"
+  },
+  {
+    "code": "SSM112",
+    "fundname": "盈立方乐享17号私募证券投资基金"
+  },
+  {
+    "code": "STJ378",
+    "fundname": "青骊长余2号私募证券投资基金"
+  },
+  {
+    "code": "STN948",
+    "fundname": "青骊长余5号私募证券投资基金"
+  },
+  {
+    "code": "SJY032",
+    "fundname": "融升稳健2号私募证券投资基金"
+  },
+  {
+    "code": "SVL444",
+    "fundname": "民拓富邦富赢2号私募证券投资基金A"
+  },
+  {
+    "code": "XC900A",
+    "fundname": "民拓富邦富赢5号A类"
+  },
+  {
+    "code": "XE220A",
+    "fundname": "民拓富邦富赢6号A类"
+  },
+  {
+    "code": "SB2157",
+    "fundname": "冠通资管宝怡2号集合资产管理计划"
+  },
+  {
+    "code": "SGB457",
+    "fundname": "长风永利1号私募证券投资基金"
+  },
+  {
+    "code": "SB2503",
+    "fundname": "和合资管咏熙强债FOF1号集合资产管理计划"
+  },
+  {
+    "code": "SB1106",
+    "fundname": "咏泽1号"
+  },
+  {
+    "code": "GF1116",
+    "fundname": "久期量和广胜量化多头1号私募证券投资基金"
+  },
+  {
+    "code": "SXY721",
+    "fundname": "华创海晟惠盈3号集合资产管理计划"
+  },
+  {
+    "code": "09809B",
+    "fundname": "宽投中原中证1000指增1号私募证券投资基金B类"
+  },
+  {
+    "code": "SVA192",
+    "fundname": "赢康丰收七号私募证券投资基金"
+  },
+  {
+    "code": "XV734A",
+    "fundname": "翼虎安鑫1号A类"
+  },
+  {
+    "code": "XD379A",
+    "fundname": "金澹远洋1号私募证券投资基金A类"
+  },
+  {
+    "code": "SLZ972",
+    "fundname": "恒德智信2号私募证券投资基金"
+  },
+  {
+    "code": "SXZ432",
+    "fundname": "赢康厚鑫二号私募证券投资基金"
+  },
+  {
+    "code": "SB3446",
+    "fundname": "国联大方向之安值岭盛量化1号私募证券投资基金"
+  },
+  {
+    "code": "SB0772",
+    "fundname": "济民可信一号"
+  },
+  {
+    "code": "LW037A",
+    "fundname": "君信荣耀六号A类份额"
+  },
+  {
+    "code": "B3717A",
+    "fundname": "君禾生息A2期A类"
+  },
+  {
+    "code": "SB4558",
+    "fundname": "长风永利2号私募证券投资基金"
+  },
+  {
+    "code": "SB0097",
+    "fundname": "合晟领航1号"
+  },
+  {
+    "code": "SXZ435",
+    "fundname": "赢康厚鑫五号私募证券投资基金"
+  },
+  {
+    "code": "SXW416",
+    "fundname": "国泓资产和享1号集合资产管理计划"
+  },
+  {
+    "code": "SXW291",
+    "fundname": "国泓资产添盈3号集合资产管理计划"
+  },
+  {
+    "code": "SZS720",
+    "fundname": "国泓资产添盈8号集合资产管理计划"
+  },
+  {
+    "code": "SVQ583",
+    "fundname": "国泓资产尊享1号集合资产管理计划"
+  },
+  {
+    "code": "SVE094",
+    "fundname": "国泓资产尊享2号集合资产管理计划"
+  },
+  {
+    "code": "SXQ34B",
+    "fundname": "安诚数盈长兴私募证券投资基金B类"
+  },
+  {
+    "code": "STR213",
+    "fundname": "赢康丰收三号私募证券投资基金"
+  },
+  {
+    "code": "SB8614",
+    "fundname": "中电投先融致稳7号集合资产管理计划"
+  },
+  {
+    "code": "LW037B",
+    "fundname": "君信荣耀六号B类份额"
+  },
+  {
+    "code": "SQB442",
+    "fundname": "盈立方乐享21号私募证券投资基金"
+  },
+  {
+    "code": "SZR920",
+    "fundname": "合晟同晖恒信3号私募证券投资基金"
+  },
+  {
+    "code": "SB9235",
+    "fundname": "恒泰盈沃柏瑞1号"
+  },
+  {
+    "code": "SB6896",
+    "fundname": "世纪前沿盛世优选7号私募证券投资基金"
+  },
+  {
+    "code": "SXW762",
+    "fundname": "前海泽辉1号天添惠私募证券投资基金"
+  },
+  {
+    "code": "SZA002",
+    "fundname": "前海泽辉2号天添惠私募证券投资基金"
+  },
+  {
+    "code": "SZY990",
+    "fundname": "安诚数盈长瑞私募证券投资基金B类"
+  },
+  {
+    "code": "SB2993",
+    "fundname": "汇金国信3号"
+  },
+  {
+    "code": "B6949A",
+    "fundname": "君禾生息A3期A类"
+  },
+  {
+    "code": "SZY557",
+    "fundname": "中电投先融璟新1号集合资产管理计划"
+  },
+  {
+    "code": "SZU187",
+    "fundname": "东方汇金国源1号"
+  },
+  {
+    "code": "SXY124",
+    "fundname": "宁水德远国债宝私募证券投资基金"
+  },
+  {
+    "code": "SVC688",
+    "fundname": "岚湖瑞雪2号私募证券投资基金"
+  },
+  {
+    "code": "SXU007",
+    "fundname": "宁涌富谷雨19号C私募证券投资基金"
+  },
+  {
+    "code": "BB2301",
+    "fundname": "华安证券恒赢12M001号集合资产管理计划"
+  },
+  {
+    "code": "SB6619",
+    "fundname": "茂源量化对冲37号私募证券投资基金"
+  },
+  {
+    "code": "SZY556",
+    "fundname": "中电投先融中新瑞享年丰1号集合资产管理计划"
+  },
+  {
+    "code": "SQW050",
+    "fundname": "恒德智信26号私募证券投资基金"
+  },
+  {
+    "code": "SVX462",
+    "fundname": "赢康红枫私募证券投资基金"
+  },
+  {
+    "code": "SXV155",
+    "fundname": "赢康红火三号私募证券投资基金"
+  },
+  {
+    "code": "SQB282",
+    "fundname": "盈立方乐享10号私募证券投资基金"
+  },
+  {
+    "code": "SB9909",
+    "fundname": "岚湖瑞雪22号私募证券投资基金"
+  },
+  {
+    "code": "SSW483",
+    "fundname": "紫微星石恒鑫8号私募证券投资基金"
+  },
+  {
+    "code": "SXR009",
+    "fundname": "国泓资产添盈5号"
+  },
+  {
+    "code": "SLQ655",
+    "fundname": "灵涛通汇大道卧龙"
+  },
+  {
+    "code": "SABE18",
+    "fundname": "华闻期货华晟经创二号集合资产管理计划"
+  },
+  {
+    "code": "SABQ07",
+    "fundname": "冠通资管兆享2号集合资产管理计划"
+  },
+  {
+    "code": "SABT86",
+    "fundname": "明亚基金恒元1号集合资产管理计划"
+  },
+  {
+    "code": "SB8890",
+    "fundname": "明亚基金铭石3号集合资产管理计划"
+  },
+  {
+    "code": "SZA017",
+    "fundname": "超量子中证1000增强1号"
+  },
+  {
+    "code": "STT893",
+    "fundname": "满风积分2号中证500指数增强私募证券投资基金"
+  },
+  {
+    "code": "SAAK06",
+    "fundname": "合晟品悦3号私募证券投资基金"
+  },
+  {
+    "code": "SABD96",
+    "fundname": "合晟中波FOF1号私募证券投资基金"
+  },
+  {
+    "code": "SQX121",
+    "fundname": "禅龙堃选复合1号私募证券投资基金"
+  },
+  {
+    "code": "SGX656",
+    "fundname": "禅龙堃选尊享1号私募证券投资基金"
+  },
+  {
+    "code": "SQP657",
+    "fundname": "万观4期私募证券投资基金"
+  },
+  {
+    "code": "SVS041",
+    "fundname": "华创城债创赢2号集合资产管理计划"
+  },
+  {
+    "code": "STR269",
+    "fundname": "华闻期货华云景瑞四号集合资产管理计划"
+  },
+  {
+    "code": "SACS16",
+    "fundname": "国联期货汇腾24号集合资产管理计划"
+  },
+  {
+    "code": "SAAT20",
+    "fundname": "明亚基金处暑1号纯债集合资产管理计划"
+  },
+  {
+    "code": "SQX086",
+    "fundname": "紫微星石恒鑫1号私募证券投资基金"
+  },
+  {
+    "code": "SCW539",
+    "fundname": "林园健康中国私募投资基金"
+  },
+  {
+    "code": "SABY10",
+    "fundname": "明亚基金小满2号集合资产管理计划"
+  },
+  {
+    "code": "SZH241",
+    "fundname": "杉树500指数增强联接1号私募证券投资基金"
+  },
+  {
+    "code": "SADK41",
+    "fundname": "国泓尊享7号"
+  },
+  {
+    "code": "SXJ204",
+    "fundname": "华创东方嘉石2号"
+  },
+  {
+    "code": "SZH961",
+    "fundname": "一村和光10期私募证券投资基金"
+  },
+  {
+    "code": "STG350",
+    "fundname": "赢康丰盈六号私募证券投资基金"
+  },
+  {
+    "code": "SACE22",
+    "fundname": "永利11号5期私募证券投资基金"
+  },
+  {
+    "code": "SACP83",
+    "fundname": "锐实新源1号私募证券投资基金"
+  },
+  {
+    "code": "SD9445",
+    "fundname": "浦信日添月益基金"
+  },
+  {
+    "code": "SW2384",
+    "fundname": "跃跃升1号私募证券投资基金"
+  },
+  {
+    "code": "SNQ456",
+    "fundname": "弈倍水杉量化多策略2私募投资基金"
+  },
+  {
+    "code": "SXK733",
+    "fundname": "巨量均衡量化对冲星曜2022私募证券投资基金"
+  },
+  {
+    "code": "STK385",
+    "fundname": "巨量均衡中证500进取型指数增强飒露紫一号私募证券投资基金"
+  },
+  {
+    "code": "SADJ69",
+    "fundname": "中电投先融星合FOF1号集合资产管理计划"
+  },
+  {
+    "code": "YNTW1A",
+    "fundname": "因诺天问1号私募证券投资基金A类"
+  },
+  {
+    "code": "BB2043",
+    "fundname": "华安证券恒赢28号集合资产管理计划"
+  },
+  {
+    "code": "BB2081",
+    "fundname": "华安证券恒赢65号集合资产管理计划"
+  },
+  {
+    "code": "SADR22",
+    "fundname": "华闻期货华晟FOF一号集合资产管理计划"
+  },
+  {
+    "code": "SADK46",
+    "fundname": "启林量化中证1000指数增强Plus32号私募证券投资基金"
+  },
+  {
+    "code": "SAEJ25",
+    "fundname": "佑维进取多策略1号1期私募证券投资基金"
+  },
+  {
+    "code": "SADN31",
+    "fundname": "国泓资产尊享6号集合资产管理计划"
+  },
+  {
+    "code": "STY055",
+    "fundname": "安放城债精选恒升1号私募证券投资基金"
+  },
+  {
+    "code": "SXU952",
+    "fundname": "安放添宁1号"
+  },
+  {
+    "code": "SVY411",
+    "fundname": "安放悦盈1号私募证券投资基金"
+  },
+  {
+    "code": "SXL508",
+    "fundname": "展弘金选套利1号私募证券投资基金"
+  },
+  {
+    "code": "SCZ636",
+    "fundname": "展弘量化套利1号私募证券投资基金"
+  },
+  {
+    "code": "SB9972",
+    "fundname": "安放道知FOF私享1号私募证券投资基金"
+  },
+  {
+    "code": "SACT34",
+    "fundname": "元兹海纳优选稳健2号私募证券投资基金"
+  },
+  {
+    "code": "ADL99B",
+    "fundname": "创奥智赢私享1号私募证券投资基金B"
+  },
+  {
+    "code": "ADR96C",
+    "fundname": "卓胜瑞安三号C类"
+  },
+  {
+    "code": "SNT610",
+    "fundname": "林园投资201号私募证券投资基金"
+  },
+  {
+    "code": "SADY30",
+    "fundname": "国联期货欣荣尊享8号集合资产管理计划"
+  },
+  {
+    "code": "SXV928",
+    "fundname": "元兹海纳天天宝1号私募证券投资基金"
+  },
+  {
+    "code": "SXA362",
+    "fundname": "安放明月1号私募证券投资基金"
+  },
+  {
+    "code": "AFT28A",
+    "fundname": "林园健康中国传家宝1号A类"
+  },
+  {
+    "code": "SZH321",
+    "fundname": "东方汇金国信2号"
+  },
+  {
+    "code": "STK731",
+    "fundname": "荣锐星耀1号私募证券投资基金"
+  },
+  {
+    "code": "SLU802",
+    "fundname": "黑翼策略精选8号私募证券投资基金"
+  },
+  {
+    "code": "SQR534",
+    "fundname": "恒德繁星8号私募证券投资基金"
+  },
+  {
+    "code": "T07807",
+    "fundname": "恒德繁星8号私募证券投资基金B类"
+  },
+  {
+    "code": "SB4979",
+    "fundname": "信弘海赢征程1号量化私募证券投资基金"
+  },
+  {
+    "code": "SACD22",
+    "fundname": "信弘海赢征程2号量化"
+  },
+  {
+    "code": "SQR677",
+    "fundname": "富涌谷水滴32号私募证券投资基金"
+  },
+  {
+    "code": "ZA401C",
+    "fundname": "卓胜珺腾二号C类"
+  },
+  {
+    "code": "SAAF27",
+    "fundname": "宽投海盈巧心1号私募证券投资基金"
+  },
+  {
+    "code": "NS792B",
+    "fundname": "天府投资鑫远长安兴业1号私募证券投资基金"
+  },
+  {
+    "code": "SB5507",
+    "fundname": "新湖期货兴启月月开1号集合资产管理计划"
+  },
+  {
+    "code": "SB5226",
+    "fundname": "新湖期货云启半年开1号集合资产管理计划"
+  },
+  {
+    "code": "SNF950",
+    "fundname": "中欧瑞博宜信尊享1号私募证券投资基金"
+  },
+  {
+    "code": "SAFS82",
+    "fundname": "玉数涵瑞专享二十号一期私募证券投资基金"
+  },
+  {
+    "code": "SEK354",
+    "fundname": "贝泉3号私募证券投资基金"
+  },
+  {
+    "code": "STE618",
+    "fundname": "赢康十一号私募证券投资基金"
+  },
+  {
+    "code": "STX659",
+    "fundname": "岚湖瑞雪5号私募证券投资基金"
+  },
+  {
+    "code": "GT119A",
+    "fundname": "卓尚发现者2号A类"
+  },
+  {
+    "code": "AGB81A",
+    "fundname": "申毅惟精量化1号私募证券投资基金A类"
+  },
+  {
+    "code": "SAGC97",
+    "fundname": "国泓资产添盈6号"
+  },
+  {
+    "code": "SSR840",
+    "fundname": "盈立方乐享23号私募证券投资基金"
+  },
+  {
+    "code": "SZJ593",
+    "fundname": "卓然远航1号私募证券投资基金"
+  },
+  {
+    "code": "SAHU19",
+    "fundname": "均成云峰CTA增强28号私募证券投资基金"
+  },
+  {
+    "code": "SACX30",
+    "fundname": "玖逸恒益一号私募证券投资基金"
+  },
+  {
+    "code": "SGY072",
+    "fundname": "复熙普盈1号私募证券投资基金"
+  },
+  {
+    "code": "SXC623",
+    "fundname": "盛冠达海赢竹梦二号私募证券投资基金"
+  },
+  {
+    "code": "SVR544",
+    "fundname": "盛冠达海盈量化多策略11号私募证券投资基金"
+  },
+  {
+    "code": "SXK534",
+    "fundname": "盛冠达海赢二号私募证券投资基金"
+  },
+  {
+    "code": "SAHZ68",
+    "fundname": "华闻期货华晟FOF四号集合资产管理计划"
+  },
+  {
+    "code": "SVX911",
+    "fundname": "盈立方乐享25号私募证券投资基金"
+  },
+  {
+    "code": "SSY326",
+    "fundname": "盈立方乐享26号私募证券投资基金"
+  },
+  {
+    "code": "SAJY70",
+    "fundname": "国泓资产和享5号"
+  },
+  {
+    "code": "AET98C",
+    "fundname": "量派CTA一号C类"
+  },
+  {
+    "code": "AGZ17C",
+    "fundname": "量派CTA八号C类"
+  },
+  {
+    "code": "ND172C",
+    "fundname": "量派300增强2号C类"
+  },
+  {
+    "code": "SD331B",
+    "fundname": "汉中林园投资健康中国2号B类"
+  },
+  {
+    "code": "SZK57A",
+    "fundname": "禅龙信望1号私募证券投资基金A类"
+  },
+  {
+    "code": "SAHM22",
+    "fundname": "宽德飞虹三期私募证券投资基金"
+  },
+  {
+    "code": "SB1869",
+    "fundname": "岚湖瑞雪21号私募证券投资基金"
+  },
+  {
+    "code": "SAKG17",
+    "fundname": "鑫鼎盛鑫悦益一号集合资产管理计划"
+  },
+  {
+    "code": "SAKF24",
+    "fundname": "华闻期货华晟FOF六号集合资产管理计划"
+  },
+  {
+    "code": "STG348",
+    "fundname": "赢康丰盈四号私募证券投资基金"
+  },
+  {
+    "code": "SVV487",
+    "fundname": "卓德新睿1号私募证券投资基金"
+  },
+  {
+    "code": "SNZ079",
+    "fundname": "卓德量茂1号私募证券投资基金"
+  },
+  {
+    "code": "SALB86",
+    "fundname": "国泓资产优享1号"
+  },
+  {
+    "code": "SVL342",
+    "fundname": "智领尧升1号"
+  },
+  {
+    "code": "SABT42",
+    "fundname": "合晟领航2号"
+  },
+  {
+    "code": "SQQ982",
+    "fundname": "天虫长阳2号私募证券投资基金"
+  },
+  {
+    "code": "SQE225",
+    "fundname": "明晟东诚嘉享1号FOF私募证券投资基金"
+  },
+  {
+    "code": "STE623",
+    "fundname": "赢康十二号"
+  },
+  {
+    "code": "BB7122",
+    "fundname": "华安证券尊享恒赢21号集合资产管理计划"
+  },
+  {
+    "code": "SZZ135",
+    "fundname": "富尔乐盛世家特色对冲1号私募证券投资基金"
+  },
+  {
+    "code": "STR890",
+    "fundname": "明晟东诚友诚1号私募证券投资基金"
+  },
+  {
+    "code": "SQL241",
+    "fundname": "天虫长阳1号私募证券投资基金"
+  },
+  {
+    "code": "SVA623",
+    "fundname": "天虫长阳8号私募证券投资基金"
+  },
+  {
+    "code": "SXD192",
+    "fundname": "天虫长阳13号私募证券投资基金"
+  },
+  {
+    "code": "SZW630",
+    "fundname": "安放凯通商品套利1号私募证券投资基金"
+  },
+  {
+    "code": "SA2753",
+    "fundname": "子午恒安中性一号私募证券投资基金"
+  },
+  {
+    "code": "R7082A",
+    "fundname": "波粒二象趋势1私募基金A类"
+  },
+  {
+    "code": "ZR445A",
+    "fundname": "仟富来观潮A类"
+  },
+  {
+    "code": "SAKW18",
+    "fundname": "大道众惠稳健增利1号私募证券投资基金"
+  },
+  {
+    "code": "B1683A",
+    "fundname": "合晟均安12号私募证券投资基金A"
+  },
+  {
+    "code": "B3419A",
+    "fundname": "合晟均安16号私募证券投资基金A"
+  },
+  {
+    "code": "SVE604",
+    "fundname": "晨乐星辰8号私募证券投资基金"
+  },
+  {
+    "code": "SXQ612",
+    "fundname": "东方汇金国信1号"
+  },
+  {
+    "code": "VT945A",
+    "fundname": "优美利赢胜价值8号A类"
+  },
+  {
+    "code": "T06069",
+    "fundname": "融升源铭稳健一号私募证券投资基金C类"
+  },
+  {
+    "code": "SXN375",
+    "fundname": "国泓资产中盛1号"
+  }
+]

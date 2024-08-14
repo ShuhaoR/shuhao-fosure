@@ -6,32 +6,53 @@ body {
   margin: 0;
   padding: 0;
   background-color: white;
+  padding-top: 60px;
 }
 
 /* src/styles/styles.css */
 .navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0.5rem 1rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
   background-color: #007bff;
   color: white;
+  padding: 10px 0;
+  z-index: 1000; /* Ensure it's on top of other elements */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 .navbar-links {
-  list-style: none;
   display: flex;
+  justify-content: space-around;
+  list-style: none;
   margin: 0;
   padding: 0;
 }
 
 .navbar-links li {
-  margin: 0 1rem;
+  margin: 0 15px;
 }
 
-.navbar-links li a {
+.navbar-links a {
   color: white;
   text-decoration: none;
+}
+
+.logout-button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+.language-switcher {
+  margin-left: auto;
+}
+
+.language-switcher select {
+  padding: 5px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid #dddddd;
 }
 
 .logout-button {
@@ -41,6 +62,7 @@ body {
   cursor: pointer;
 }
 .container {
+  margin-top: 60px;
   padding: 2rem;
 }
 
@@ -102,4 +124,35 @@ button {
 
 .success-message {
   color: green;
+}
+
+.fund-list-container {
+  padding: 20px;
+}
+
+.search-input {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.fund-list-container {
+  padding-top: 70px; /* Adjust this based on your navbar height */
+}
+
+.fund-list-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.fund-list-table th,
+.fund-list-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.fund-list-table th {
+  background-color: #f0f4ff;
 }

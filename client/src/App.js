@@ -16,6 +16,7 @@ import CreateFund from "./components/CreateFund";
 import Market from "./components/Market";
 import Selection from "./components/Selection";
 import WeChatLogin from "./components/WeChatLogin"; // Import the WeChat login component
+import SingleFund from "./components/SingleFund"; // Import the Single Fund component
 import "./styles/styles.css";
 
 function App() {
@@ -61,6 +62,10 @@ function App() {
         <Route
           path="/selection"
           element={isLoggedIn ? <Selection /> : <Navigate to="/login" />}
+        />
+        <Route
+          path="/fund/:fundname"
+          element={isLoggedIn ? <SingleFund /> : <Navigate to="/login" />}
         />
       </Routes>
     </Router>
