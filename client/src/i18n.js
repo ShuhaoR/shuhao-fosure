@@ -16,7 +16,7 @@ const resources = {
 i18n.use(initReactI18next).init({
   resources,
   lng: "zh", // Set default language to Chinese
-  fallbackLng: "en",
+  fallbackLng: "zh",
   interpolation: {
     escapeValue: false, // React already does escaping
   },

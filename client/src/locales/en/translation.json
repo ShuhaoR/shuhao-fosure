@@ -18,5 +18,21 @@
   "registration_successful": "Registration successful!",
   "registration_failed": "Registration failed.",
   "login_successful": "Login successful!",
-  "error_saving_fund": "Error saving fund."
+  "error_saving_fund": "Error saving fund.",
+  "WeChat Login": "WeChat Login",
+  "请扫描下方二维码登录": "Please scan the QR code below to log in.",
+  "market": "Market",
+  "market_content": "Market content display.",
+  "selection": "Selection",
+  "返回登录": "Return to Login",
+  "network_error": "Network error",
+  "基金投资助手|投研专家": "Fund Investment Assistant | Research Expert",
+  "欢迎登录": "Welcome to Login",
+  "请输入邮箱": "Please enter email",
+  "请输入密码": "Please enter password",
+  "登录": "Login",
+  "忘记密码?": "Forgot Password?",
+  "微信扫码登录": "Scan QR code with WeChat to login",
+  "还没有账户？": "Don't have an account?",
+  "注册": "Register"
 }

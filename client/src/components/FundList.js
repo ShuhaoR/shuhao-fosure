@@ -10,7 +10,9 @@ const FundList = () => {
   useEffect(() => {
     const fetchFunds = async () => {
       try {
-        const response = await fetch("http://localhost:5001/api/funds");
+        const response = await fetch(
+          "https://shuhao-fosure.onrender.com/api/funds"
+        );
         const data = await response.json();
         setFunds(data);
       } catch (error) {

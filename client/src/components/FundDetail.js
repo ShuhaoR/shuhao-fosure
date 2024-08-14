@@ -11,7 +11,9 @@ const FundDetail = () => {
   useEffect(() => {
     const fetchFundDetail = async () => {
       try {
-        const response = await fetch(`http://localhost:5001/api/funds/${id}`);
+        const response = await fetch(
+          `https://shuhao-fosure.onrender.com/api/funds/${id}`
+        );
         const data = await response.json();
         setFund(data);
       } catch (error) {

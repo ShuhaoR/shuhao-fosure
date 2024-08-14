@@ -1,5 +1,4 @@
 // src/App.js
-// src/App.js
 import "./i18n"; // Import the i18n configuration
 import React, { useState, useEffect } from "react";
 import {
@@ -16,6 +15,7 @@ import FundList from "./components/FundList";
 import CreateFund from "./components/CreateFund";
 import Market from "./components/Market";
 import Selection from "./components/Selection";
+import WeChatLogin from "./components/WeChatLogin"; // Import the WeChat login component
 import "./styles/styles.css";
 
 function App() {
@@ -41,6 +41,7 @@ function App() {
           element={<Login setIsLoggedIn={setIsLoggedIn} />}
         />
         <Route path="/register" element={<Register />} />
+        <Route path="/wechat-login" element={<WeChatLogin />} />
         <Route
           path="/"
           element={isLoggedIn ? <Home /> : <Navigate to="/login" />}
