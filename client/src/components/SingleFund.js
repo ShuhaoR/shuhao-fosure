@@ -89,12 +89,53 @@ const SingleFund = () => {
         },
       },
     },
+    maintainAspectRatio: false, // Allow resizing
   };
 
   return (
     <div>
       <h1>{fundname}</h1>
-      <Line data={data} options={options} />
+      <div style={{ width: "50%", margin: "0 auto", height: "400px" }}>
+        {/* Set width to 50% and center it */}
+        <Line data={data} options={options} />
+      </div>
+      <table
+        style={{
+          width: "100%",
+          marginTop: "20px",
+          borderCollapse: "collapse",
+          textAlign: "center", // Center text in table cells
+        }}
+      >
+        <thead>
+          <tr>
+            <th style={{ borderBottom: "1px solid #ddd", padding: "10px" }}>
+              日期
+            </th>
+            <th style={{ borderBottom: "1px solid #ddd", padding: "10px" }}>
+              总净值
+            </th>
+            <th style={{ borderBottom: "1px solid #ddd", padding: "10px" }}>
+              单位净值
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          {fundDetails.map((detail, index) => (
+            <tr key={index}>
+              <td style={{ borderBottom: "1px solid #ddd", padding: "10px" }}>
+                {excelDateToJSDate(detail.date).toLocaleDateString()}
+              </td>
+              <td style={{ borderBottom: "1px solid #ddd", padding: "10px" }}>
+                {detail.totalnav}
+              </td>
+              <td style={{ borderBottom: "1px solid #ddd", padding: "10px" }}>
+                {detail.unitnav}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   );
 };
