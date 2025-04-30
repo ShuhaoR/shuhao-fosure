@@ -22,14 +22,13 @@ www.shuhao-fosure.com
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/yourusername/shuhao-fosure.git
 cd shuhao-fosure
-2. Install and Start the Backend
+### 2. Install and Start the Backend
 cd server
 npm install
 npm run server
-3. Install and Start the Frontend
+### 3. Install and Start the Frontend
 cd ../client
 npm install
 npm start
