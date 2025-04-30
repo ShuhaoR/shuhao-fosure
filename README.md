@@ -1,6 +1,6 @@
 ## 🧾 Overview
 
-shuhao-fosure.com
+www.shuhao-fosure.com
 
 **shuhao-fosure** is a full-stack web application built independently to showcase end-to-end web development capabilities. It features secure authentication, data visualization, and Excel export functionalities. This project demonstrates my full-stack engineering skills in both backend API design and frontend UI construction.
 
